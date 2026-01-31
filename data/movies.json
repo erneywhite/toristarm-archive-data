@@ -54,12 +54,21 @@
     "posterUrl": "https://lh5.googleusercontent.com/proxy/yy5Y6qiOCy8vxAQ7YC-8XQeQEOi8ESkqsCq2zATLRnMywOBpZvgrAU0g_7YyWNk8LskuWSlJhdQgwu6C0_sPfT4SlWl5gVUzebOH52TYIS2C6ZLEkwYWplXg5Cjx82tvMp-38HFWkAE_RGbK"
   },
   {
-    "title": "Очень странные дела",
-    "year": 2016,
-    "type": "series",
-    "seasons": 4,
-    "genres": ["Хорроры", "Приключения/Квесты"],
+    "title": "Бойцовский клуб",
+    "year": 1999,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Драмы", "Криминал"],
     "rating": 9,
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/b/b1/Stranger_Things_season_1.jpg/330px-Stranger_Things_season_1.jpg"
+    "posterUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2025/03/4214371_fightclub_1740944348.jpg"
   }
+//  {
+    //"title": "Очень странные дела",
+    //"year": 2016,
+    //"type": "series",
+    //"seasons": 4,
+    //"genres": ["Хорроры", "Приключения/Квесты"],
+    //"rating": 9,
+    //"posterUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/b/b1/Stranger_Things_season_1.jpg/330px-Stranger_Things_season_1.jpg"
+  //}
 ]
