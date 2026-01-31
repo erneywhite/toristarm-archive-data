@@ -97,5 +97,32 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/648800/Raft/",
     "coverUrl": "https://upload.wikimedia.org/wikipedia/ru/f/f7/Raft.jpeg"
+  },
+  {
+    "title": "Kiosk",
+    "platform": "PC",
+    "genres": ["Симуляторы", "Приключения/Квесты", "Хорроры"],
+    "status": "completed_stream",
+    "rating": 4,
+    "link": "https://store.steampowered.com/app/3126330/Kiosk/",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3126330/8c681d4da598fc8cca305eed2329429fb9c0e249/capsule_616x353.jpg?t=1762538146"
+  },
+  {
+    "title": "The Boba Teashop",
+    "platform": "PC",
+    "genres": ["Симуляторы", "Приключения/Квесты", "Хорроры"],
+    "status": "completed_stream",
+    "rating": 5,
+    "link": "https://store.steampowered.com/app/3461920/The_Boba_Teashop/",
+    "coverUrl": "https://static.wikia.nocookie.net/southeast-asia-game/images/4/49/Boba_Teashop.jpeg/revision/latest?cb=20250515115110"
+  },
+  {
+    "title": "Subnautica",
+    "platform": "PC",
+    "genres": ["Симуляторы", "Приключения/Квесты", "Экшн"],
+    "status": "in_progress_stream",
+    "rating": ,
+    "link": "https://store.steampowered.com/app/264710/Subnautica/",
+    "coverUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000030089/0500a5492e479ace4bdbfcf93048cb4b1464d3c5836a566e9f16f03d4d8b15ba"
   }
 ]
