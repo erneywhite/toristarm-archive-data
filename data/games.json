@@ -43,5 +43,32 @@
     "rating": 7,
     "link": "https://store.steampowered.com/app/881100/Noita/",
     "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/capsule_616x353.jpg?t=1675987871"
+  },
+  {
+    "title": "The Long Dark",
+    "platform": "PC",
+    "genres": ["Экшн", "Приключения/Квесты", "Симуляторы"],
+    "status": "completed_stream",
+    "rating": 8,
+    "link": "https://store.steampowered.com/app/305620/The_Long_Dark/",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/305620/header.jpg?t=1768865059"
+  },
+  {
+    "title": "Helltaker",
+    "platform": "PC",
+    "genres": ["Головоломки", "Приключения/Квесты"],
+    "status": "completed_stream",
+    "rating": 10,
+    "link": "https://store.steampowered.com/app/1289310/Helltaker/",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Helltaker_Cover.jpg/250px-Helltaker_Cover.jpg"
+  },
+  {
+    "title": "Bendy And the ink machine",
+    "platform": "PC",
+    "genres": ["Головоломки", "Приключения/Квесты"],
+    "status": "completed_stream",
+    "rating": 9,
+    "link": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
+    "coverUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000012899/9381c82bcb85d723252de06ea9f1dda0c62a45ccbabcfaf1e35afa4d27ddadf7"
   }
 ]
