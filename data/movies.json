@@ -1,12 +1,12 @@
 [
   {
-    "title": "Властелин колец: Братство Кольца",
-    "year": 2001,
+    "title": "Маска",
+    "year": 1994,
     "type": "movie",
     "seasons": null,
-    "genres": ["Приключения/Квесты"],
+    "genres": ["Комедии", "Боевики", "Криминал"],
     "rating": 10,
-    "posterUrl": "https://i.ytimg.com/vi/ZdeE6IY-6Oc/maxresdefault.jpg"
+    "posterUrl": "https://n1s1.hsmedia.ru/96/21/9c/96219c254d8cfbd1a22270f470ad5c94/1200x630_0xac120004_15954178821675342193.png"
   },
   {
     "title": "Очень странные дела",
