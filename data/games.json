@@ -124,5 +124,14 @@
     "rating": 8,
     "link": "https://store.steampowered.com/app/264710/Subnautica/",
     "coverUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000030089/0500a5492e479ace4bdbfcf93048cb4b1464d3c5836a566e9f16f03d4d8b15ba"
+  },
+  {
+    "title": "7 Days to Die",
+    "platform": "PC",
+    "genres": ["Симуляторы", "Песочницы", "Экшн"],
+    "status": "completed_stream",
+    "rating": 7,
+    "link": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1766024790"
   }
 ]
