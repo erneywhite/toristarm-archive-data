@@ -70,5 +70,32 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
     "coverUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000012899/9381c82bcb85d723252de06ea9f1dda0c62a45ccbabcfaf1e35afa4d27ddadf7"
+  },
+  {
+    "title": "We Were Here Together",
+    "platform": "PC",
+    "genres": ["Головоломки", "Приключения/Квесты", "Казуальные"],
+    "status": "completed_stream",
+    "rating": 10,
+    "link": "https://store.steampowered.com/app/865360/We_Were_Here_Together/",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/865360/0de3cc415d89b19a3337945935b157dbbd96fa72/capsule_616x353.jpg?t=1764330773"
+  },
+  {
+    "title": "Voices of the Void",
+    "platform": "PC",
+    "genres": ["Симуляторы", "Хорроры"],
+    "status": "completed_stream",
+    "rating": 10,
+    "link": "https://mrdrnose.itch.io/votv",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Voices_of_the_Void_cover.png"
+  },
+  {
+    "title": "Raft",
+    "platform": "PC",
+    "genres": ["Симуляторы", "Приключения/Квесты", "Экшн"],
+    "status": "completed_stream",
+    "rating": 9,
+    "link": "https://store.steampowered.com/app/648800/Raft/",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/ru/f/f7/Raft.jpeg"
   }
 ]
