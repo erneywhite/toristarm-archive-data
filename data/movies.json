@@ -18,6 +18,42 @@
     "posterUrl": "https://images.iptv.rt.ru/images/c6tl4m3ir4sslltqsq80.jpg"
   },
   {
+    "title": "Голый пистолет",
+    "year": 1988,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Комедии", "Криминал"],
+    "rating": 10,
+    "posterUrl": "https://cdn.maximonline.ru/0f/37/50/0f375078e5791aee3f5de68c8ae7704f/665x460_0xac120005_267269961529047719.jpg"
+  },
+  {
+    "title": "Зеленая миля",
+    "year": 1999,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Драмы", "Детективы", "Криминал"],
+    "rating": 9,
+    "posterUrl": "https://static.tildacdn.com/tild3661-6433-4862-a431-313263363632/zelenaya_milya_psiho.jpg"
+  },
+  {
+    "title": "Интерстеллар",
+    "year": 2014,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Драмы", "Фантастика", "Приключения"],
+    "rating": 10,
+    "posterUrl": "https://kkos.ru/blog/pictures/interstellar.jpg"
+  },
+  {
+    "title": "Майор Пэйн",
+    "year": 1995,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Комедии"],
+    "rating": 9,
+    "posterUrl": "https://lh5.googleusercontent.com/proxy/yy5Y6qiOCy8vxAQ7YC-8XQeQEOi8ESkqsCq2zATLRnMywOBpZvgrAU0g_7YyWNk8LskuWSlJhdQgwu6C0_sPfT4SlWl5gVUzebOH52TYIS2C6ZLEkwYWplXg5Cjx82tvMp-38HFWkAE_RGbK"
+  },
+  {
     "title": "Очень странные дела",
     "year": 2016,
     "type": "series",
