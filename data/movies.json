@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Властелин колец: Братство Кольца",
+    "year": 2001,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Приключения/Квесты"],
+    "rating": 10,
+    "posterUrl": "https://i.ytimg.com/vi/ZdeE6IY-6Oc/maxresdefault.jpg"
+  },
+  {
+    "title": "Очень странные дела",
+    "year": 2016,
+    "type": "series",
+    "seasons": 4,
+    "genres": ["Хорроры", "Приключения/Квесты"],
+    "rating": 9,
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/b/b1/Stranger_Things_season_1.jpg/330px-Stranger_Things_season_1.jpg"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Alan Wake 2",
+    "platform": "PC",
+    "genres": ["Хорроры", "Приключения/Квесты"],
+    "status": "completed_stream", 
+    "rating": 9,
+    "link": "https://store.steampowered.com/app/1086940/Alan_Wake_2/",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/cc/Alan_Wake_2_%28game%29.jpg/960px-Alan_Wake_2_%28game%29.jpg"
+  },
+  {
+    "title": "Stardew Valley",
+    "platform": "PC",
+    "genres": ["Песочницы", "Симуляторы", "Казуальные"],
+    "status": "in_progress_stream",
+    "rating": 8,
+    "link": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/ru/7/72/Stardew_Valley_Cover_Art.png"
+  },
+   {
+    "title": "Stardew Valley2",
+    "platform": "PC",
+    "genres": ["Песочницы", "Симуляторы", "Казуальные"],
+    "status": "in_progress_stream",
+    "rating": 5,
+    "link": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8o3lKo9eGw5cygPmv0IUeJSuZBBKIecRBiTx-QeQWMr0HOUdTQfiGeRfdr_W6he_lYBiNXPvUN0yTbav-AoJta8sMuuvpnhZzC50FQog&s=10"
+  }
+]
