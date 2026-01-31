@@ -1,12 +1,12 @@
 [
   {
-    "title": "Alan Wake 2",
+    "title": "Quarantine Zone: The Last Check",
     "platform": "PC",
-    "genres": ["Хорроры", "Приключения/Квесты"],
+    "genres": ["Симуляторы", "Приключения/Квесты"],
     "status": "completed_stream", 
-    "rating": 9,
-    "link": "https://store.steampowered.com/app/1086940/Alan_Wake_2/",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/cc/Alan_Wake_2_%28game%29.jpg/960px-Alan_Wake_2_%28game%29.jpg"
+    "rating": 8,
+    "link": "https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/",
+    "coverUrl": "https://gaming-cdn.com/images/products/19416/orig/quarantine-zone-the-last-check-pc-steam-cover.jpg?v=1768619281"
   },
   {
     "title": "Stardew Valley",
