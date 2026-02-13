@@ -6,6 +6,7 @@
     "seasons": null,
     "genres": ["Комедии", "Боевики", "Криминал"],
     "rating": 10,
+	"posterLocal": "Mask.webp",
     "posterUrl": "https://n1s1.hsmedia.ru/96/21/9c/96219c254d8cfbd1a22270f470ad5c94/1200x630_0xac120004_15954178821675342193.png"
   },
   {
@@ -15,6 +16,7 @@
     "seasons": null,
     "genres": ["Комедии", "Боевики", "Приключения"],
     "rating": 10,
+	"posterLocal": "Grimsby.webp",
     "posterUrl": "https://images.iptv.rt.ru/images/c6tl4m3ir4sslltqsq80.jpg"
   },
   {
@@ -24,6 +26,7 @@
     "seasons": null,
     "genres": ["Комедии", "Криминал"],
     "rating": 10,
+	"posterLocal": "The-Naked-Gun.webp",
     "posterUrl": "https://cdn.maximonline.ru/0f/37/50/0f375078e5791aee3f5de68c8ae7704f/665x460_0xac120005_267269961529047719.jpg"
   },
   {
@@ -33,6 +36,7 @@
     "seasons": null,
     "genres": ["Драмы", "Детективы", "Криминал"],
     "rating": 9,
+	"posterLocal": "The-Green-Mile.webp",
     "posterUrl": "https://static.tildacdn.com/tild3661-6433-4862-a431-313263363632/zelenaya_milya_psiho.jpg"
   },
   {
@@ -42,6 +46,7 @@
     "seasons": null,
     "genres": ["Драмы", "Фантастика", "Приключения"],
     "rating": 10,
+	"posterLocal": "Interstellar.webp",
     "posterUrl": "https://kkos.ru/blog/pictures/interstellar.jpg"
   },
   {
@@ -51,6 +56,7 @@
     "seasons": null,
     "genres": ["Комедии"],
     "rating": 9,
+	"posterLocal": "Major-Payne.webp",
     "posterUrl": "https://lh5.googleusercontent.com/proxy/yy5Y6qiOCy8vxAQ7YC-8XQeQEOi8ESkqsCq2zATLRnMywOBpZvgrAU0g_7YyWNk8LskuWSlJhdQgwu6C0_sPfT4SlWl5gVUzebOH52TYIS2C6ZLEkwYWplXg5Cjx82tvMp-38HFWkAE_RGbK"
   },
   {
@@ -60,6 +66,7 @@
     "seasons": null,
     "genres": ["Драмы", "Криминал"],
     "rating": 9,
+	"posterLocal": "Fight-Club.webp",
     "posterUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2025/03/4214371_fightclub_1740944348.jpg"
   },
   {
@@ -69,6 +76,7 @@
     "seasons": null,
     "genres": ["Драмы"],
     "rating": 8,
+	"posterLocal": "Requiem-for-a-Dream.webp",
     "posterUrl": "https://www.kinonews.ru/insimgs/shotimg/shotimg30705_8.jpg"
   },
   {
