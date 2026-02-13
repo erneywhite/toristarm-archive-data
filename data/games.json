@@ -6,6 +6,7 @@
     "status": "completed_stream", 
     "rating": 8,
     "link": "https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/",
+    "coverLocal": "Quarantine-Zone-The-Last-Check.webp",
     "coverUrl": "https://gaming-cdn.com/images/products/19416/orig/quarantine-zone-the-last-check-pc-steam-cover.jpg?v=1768619281",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
@@ -16,6 +17,7 @@
     "status": "in_progress_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+    "coverLocal": "Stardew-Valley.webp",
     "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg?t=1754692865",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZSmEAFCHt6tYkKaM1jNohQ"
   },
@@ -26,6 +28,7 @@
     "status": "in_progress_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/3949040/RV_There_Yet/",
+    "coverLocal": "RV-There-Yet.webp",
     "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/fc6856c47b9c695c24a2e64c60b619d7762b9717/capsule_616x353.jpg?t=1766020280",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
@@ -36,6 +39,7 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/105600/Terraria/",
+    "coverLocal": "Terraria.webp",
     "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/capsule_616x353.jpg?t=1769844435"
   },
   {
@@ -45,6 +49,7 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/881100/Noita/",
+    "coverLocal": "Noita.webp",
     "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/capsule_616x353.jpg?t=1675987871",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY76OntimvSzqlKrvVYRTzP"
   },
@@ -55,6 +60,7 @@
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/305620/The_Long_Dark/",
+    "coverLocal": "The-Long-Dark.webp",
     "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/305620/header.jpg?t=1768865059",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYmBJtm4fVZo49Zk-ya5RZU"
   },
@@ -65,6 +71,7 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/1289310/Helltaker/",
+    "coverLocal": "Helltaker.webp",
     "coverUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Helltaker_Cover.jpg/250px-Helltaker_Cover.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
@@ -75,6 +82,7 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
+    "coverLocal": "Bendy-And-the-ink-machine.webp",
     "coverUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000012899/9381c82bcb85d723252de06ea9f1dda0c62a45ccbabcfaf1e35afa4d27ddadf7",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZDGuOHpS7ww4Ae89yNVGdc"
   },
@@ -85,6 +93,7 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/865360/We_Were_Here_Together/",
+    "coverLocal": "We-Were-Here-Together.webp",
     "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/865360/0de3cc415d89b19a3337945935b157dbbd96fa72/capsule_616x353.jpg?t=1764330773",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
@@ -95,6 +104,7 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://mrdrnose.itch.io/votv",
+    "coverLocal": "Voices-of-the-Void.webp",
     "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Voices_of_the_Void_cover.png"
   },
   {
@@ -104,6 +114,7 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/648800/Raft/",
+    "coverLocal": "Raft.webp",
     "coverUrl": "https://upload.wikimedia.org/wikipedia/ru/f/f7/Raft.jpeg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oaersr6FG5RV7l861kjBSss"
   },
@@ -114,6 +125,7 @@
     "status": "completed_stream",
     "rating": 4,
     "link": "https://store.steampowered.com/app/3126330/Kiosk/",
+    "coverLocal": "Kiosk.webp",
     "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3126330/8c681d4da598fc8cca305eed2329429fb9c0e249/capsule_616x353.jpg?t=1762538146"
   },
   {
@@ -123,6 +135,7 @@
     "status": "completed_stream",
     "rating": 5,
     "link": "https://store.steampowered.com/app/3461920/The_Boba_Teashop/",
+    "coverLocal": "The-Boba-Teashop.webp",
     "coverUrl": "https://steammachine.ru/slider/200023360-462x264.jpg"
   },
   {
@@ -132,6 +145,7 @@
     "status": "in_progress_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/264710/Subnautica/",
+    "coverLocal": "Subnautica.webp",
     "coverUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000030089/0500a5492e479ace4bdbfcf93048cb4b1464d3c5836a566e9f16f03d4d8b15ba",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9ObCoFqAF6AlbMtKKN33uT2h"
   },
@@ -142,6 +156,7 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
+    "coverLocal": "7-Days-to-Die.webp",
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1766024790"
   }
 ]
