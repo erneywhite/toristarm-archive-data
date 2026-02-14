@@ -90,6 +90,16 @@
     "posterUrl": "https://images.iptv.rt.ru/images/c6tlr0jir4sslltr4va0.jpg"
   },
   {
+    "title": "Властелин колец: Две крепости",
+    "year": 2002,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Боевики", "Приключения", "Фэнтези"],
+    "rating": 0,
+	"posterLocal": "The-Lord-of-the-Rings-The-Two-Towers.webp",
+    "posterUrl": "https://mediaserver.etobilet.ru/upload/movie/trailer/img/image_4279_6982.jpg"
+  },
+  {
 	"__comment": "Очень странные дела — пока не выводить",
     "title": "Очень странные дела",
     "year": 2016,
