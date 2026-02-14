@@ -100,6 +100,16 @@
     "posterUrl": "https://mediaserver.etobilet.ru/upload/movie/trailer/img/image_4279_6982.jpg"
   },
   {
+    "title": "Властелин колец: Возвращение Короля",
+    "year": 2003,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Боевики", "Приключения", "Фэнтези"],
+    "rating": 0,
+	"posterLocal": "The-Lord-of-the-Rings-The-Return-of-the-King.webp",
+    "posterUrl": "https://play-lh.googleusercontent.com/proxy/PdonA2VFLHsXuurVvGTG5XjHmsOM-P1KreKMD_C8gYA4PnHg2hCJfDy3YWgWs8n8InRSUwcD1GY5SztFnWuL6kuI_vZFLkt9w9JtqTrRVf4k7sEq=s3840-w3840-h2160"
+  },
+  {
 	"__comment": "Очень странные дела — пока не выводить",
     "title": "Очень странные дела",
     "year": 2016,
