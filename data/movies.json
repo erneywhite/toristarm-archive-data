@@ -95,7 +95,7 @@
     "type": "movie",
     "seasons": null,
     "genres": ["Боевики", "Приключения", "Фэнтези"],
-    "rating": 0,
+    "rating": 9,
 	"posterLocal": "The-Lord-of-the-Rings-The-Two-Towers.webp",
     "posterUrl": "https://mediaserver.etobilet.ru/upload/movie/trailer/img/image_4279_6982.jpg"
   },
