@@ -84,7 +84,7 @@
     "year": 2001,
     "type": "movie",
     "seasons": null,
-    "genres": ["Боевики", "Приключения"],
+    "genres": ["Боевики", "Приключения", "Фэнтези"],
     "rating": 9,
 	"posterLocal": "The-Lord-of-the-Rings-The-Fellowship-of-the-Ring.webp",
     "posterUrl": "https://images.iptv.rt.ru/images/c6tlr0jir4sslltr4va0.jpg"
