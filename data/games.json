@@ -161,6 +161,17 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
+    "title": "Cats & Cups",
+    "platform": "PC",
+    "genres": ["Roguelike", "Казуальные"],
+    "status": "completed_stream",
+    "rating": 9,
+    "link": "https://store.steampowered.com/app/3521410/Cats__Cups/",
+    "coverLocal": "Cats-and-Cups.webp",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3521410/cf2b991b350980654144b33c03440a8911443426/header.jpg",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": ["Симуляторы", "Песочницы", "Экшн"],
