@@ -130,6 +130,16 @@
     "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhkJ0wxIlN4o2t2vMwvjfpfQ7QaDbUwL9zA&s"
   },
   {
+    "title": "Монстр в Париже",
+    "year": 2011,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Комедии", "Приключения", "Фэнтези", "Драмы", "Мультфильмы"],
+    "rating": 10,
+	"posterLocal": "A-Monster-in-Paris.webp",
+    "posterUrl": "https://tv.pgtrk.com/sites/default/files/show/2020/03/mostro-a-parigi--1024x576.jpg"
+  },
+  {
 	"__comment": "Очень странные дела — пока не выводить",
     "title": "Очень странные дела",
     "year": 2016,
