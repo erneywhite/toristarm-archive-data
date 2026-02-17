@@ -120,6 +120,16 @@
     "posterUrl": "https://s4.afisha.ru/mediastorage/77/e9/1fb6249f17b946ee8c1cc215e977.jpg"
   },
   {
+    "title": "Рататуй",
+    "year": 2001,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Комедии", "Приключения", "Фэнтези", "Драмы"],
+    "rating": 0,
+	"posterLocal": "Ratatouille.webp",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhkJ0wxIlN4o2t2vMwvjfpfQ7QaDbUwL9zA&s"
+  },
+  {
 	"__comment": "Очень странные дела — пока не выводить",
     "title": "Очень странные дела",
     "year": 2016,
