@@ -115,7 +115,7 @@
     "type": "movie",
     "seasons": null,
     "genres": ["Комедии", "Приключения"],
-    "rating": 0,
+    "rating": 10,
 	"posterLocal": "Rat-Race.webp",
     "posterUrl": "https://s4.afisha.ru/mediastorage/77/e9/1fb6249f17b946ee8c1cc215e977.jpg"
   },
