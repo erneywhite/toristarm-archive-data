@@ -110,6 +110,16 @@
     "posterUrl": "https://play-lh.googleusercontent.com/proxy/PdonA2VFLHsXuurVvGTG5XjHmsOM-P1KreKMD_C8gYA4PnHg2hCJfDy3YWgWs8n8InRSUwcD1GY5SztFnWuL6kuI_vZFLkt9w9JtqTrRVf4k7sEq=s3840-w3840-h2160"
   },
   {
+    "title": "Крысиные бега",
+    "year": 2001,
+    "type": "movie",
+    "seasons": null,
+    "genres": ["Комедии", "Приключения"],
+    "rating": 0,
+	"posterLocal": "Rat-Race.webp",
+    "posterUrl": "https://s4.afisha.ru/mediastorage/77/e9/1fb6249f17b946ee8c1cc215e977.jpg"
+  },
+  {
 	"__comment": "Очень странные дела — пока не выводить",
     "title": "Очень странные дела",
     "year": 2016,
