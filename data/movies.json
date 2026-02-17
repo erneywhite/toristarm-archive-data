@@ -124,7 +124,7 @@
     "year": 2001,
     "type": "movie",
     "seasons": null,
-    "genres": ["Комедии", "Приключения", "Фэнтези", "Драмы"],
+    "genres": ["Комедии", "Приключения", "Фэнтези", "Драмы", "Мультфильмы"],
     "rating": 0,
 	"posterLocal": "Ratatouille.webp",
     "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhkJ0wxIlN4o2t2vMwvjfpfQ7QaDbUwL9zA&s"
