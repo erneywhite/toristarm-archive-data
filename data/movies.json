@@ -140,6 +140,16 @@
     "posterUrl": "https://tv.pgtrk.com/sites/default/files/show/2020/03/mostro-a-parigi--1024x576.jpg"
   },
   {
+    "title": "Становясь волшебницей",
+    "year": 2024,
+    "type": "series",
+    "seasons": 1,
+    "genres": ["Аниме", "Приключения", "Фэнтези"],
+    "rating": 0,
+	"posterLocal": "Gushing-over-Magical-Girls.webp",
+    "posterUrl": "https://animag.ru/sites/default/files/screenshots/review/2024/mahou-shoujo-ni-akogarete-430029891.jpg"
+  },
+  {
 	"__comment": "Очень странные дела — пока не выводить",
     "title": "Очень странные дела",
     "year": 2016,
