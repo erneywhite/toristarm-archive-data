@@ -172,6 +172,16 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
+    "title": "Souper Game",
+    "platform": "PC",
+    "genres": ["Казуальные", "NSFW"],
+    "status": "completed_stream",
+    "rating": 6,
+    "link": "https://store.steampowered.com/app/3181790/Souper_Game/",
+    "coverLocal": "Souper-Game.webp",
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181790/header.jpg",
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": ["Симуляторы", "Песочницы", "Экшн"],
