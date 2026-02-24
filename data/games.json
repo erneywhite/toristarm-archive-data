@@ -24,7 +24,7 @@
    {
     "title": "RV There Yet?",
     "platform": "PC",
-    "genres": ["Roguelike", "Приключения/Квесты", "Казуальные"],
+    "genres": ["Roguelike", "Приключения/Квесты", "Казуальные", "Кооп"],
     "status": "in_progress_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/3949040/RV_There_Yet/",
@@ -89,7 +89,7 @@
   {
     "title": "We Were Here Together",
     "platform": "PC",
-    "genres": ["Головоломки", "Приключения/Квесты", "Казуальные"],
+    "genres": ["Головоломки", "Приключения/Квесты", "Казуальные", "Кооп"],
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/865360/We_Were_Here_Together/",
@@ -184,7 +184,7 @@
   {
     "title": "KLETKA",
     "platform": "PC",
-    "genres": ["Roguelike", "Приключения/Квесты"],
+    "genres": ["Roguelike", "Приключения/Квесты", "Кооп"],
     "status": "completed_stream",
     "rating": 6,
     "link": "https://store.steampowered.com/app/1699480/KLET/",
