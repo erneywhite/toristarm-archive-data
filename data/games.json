@@ -195,12 +195,34 @@
   {
     "title": "We Escaped a Twisted Game",
     "platform": "PC",
-    "genres": ["Приключения/Квесты", "Кооп"],
+    "genres": ["Головоломки", "Кооп"],
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/2524930/We_Escaped_a_Twisted_Game/",
     "coverLocal": "We-Escaped-a-Twisted-Game.webp",
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnUl5C02S79HKLHSuJIL-tq6oaiViMSdWq7Q&s",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+  },
+  {
+    "title": "Buckshot Roulette",
+    "platform": "PC",
+    "genres": ["Кооп"],
+    "status": "completed_stream",
+    "rating": 9,
+    "link": "https://store.steampowered.com/app/2835570/Buckshot_Roulette/",
+    "coverLocal": "Buckshot-Roulette.webp",
+    "coverUrl": "https://gaming-cdn.com/images/products/16592/orig/buckshot-roulette-pc-game-steam-cover.jpg",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+  },
+  {
+    "title": "SIDE EFFECTS",
+    "platform": "PC",
+    "genres": ["Кооп"],
+    "status": "completed_stream",
+    "rating": 8,
+    "link": "https://store.steampowered.com/app/3799100/SIDE_EFFECTS/",
+    "coverLocal": "SIDE-EFFECTS.webp",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3799100/0c8bb9c8936562bc666501d1118812b984b0f48d/capsule_616x353.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
