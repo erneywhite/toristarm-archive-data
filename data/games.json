@@ -237,6 +237,17 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "title": "Abiotic Factor",
+    "platform": "PC",
+    "genres": ["Приключения/Квесты", "Симуляторы", "Экшн", "Кооп"],
+    "status": "in_progress_stream",
+    "rating": 10,
+    "link": "https://store.steampowered.com/app/427410/Abiotic_Factor/",
+    "coverLocal": "Abiotic-Factor.webp",
+    "coverUrl": "https://i.ytimg.com/vi/Wi5E7HKZ5K8/maxresdefault.jpg",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": ["Симуляторы", "Песочницы", "Экшн"],
