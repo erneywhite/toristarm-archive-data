@@ -248,6 +248,17 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZQa3Um9m2sBEfuIfHEfVIr"
   },
   {
+    "title": "We Were Here Forever",
+    "platform": "PC",
+    "genres": ["Головоломки", "Приключения/Квесты", "Кооп"],
+    "status": "completed_stream",
+    "rating": 6,
+    "link": "https://store.steampowered.com/app/1341290/We_Were_Here_Forever/",
+    "coverLocal": "We-Were-Here-Forever.webp",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1341290/header.jpg",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": ["Симуляторы", "Песочницы", "Экшн"],
