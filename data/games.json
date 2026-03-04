@@ -259,6 +259,17 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "title": "Warhammer 40,000: Space Marine 2",
+    "platform": "PC",
+    "genres": ["Приключения/Квесты", "Экшн", "Кооп"],
+    "status": "completed_stream",
+    "rating": 10,
+    "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/",
+    "coverLocal": "Warhammer-40000-Space-Marine-2.webp",
+    "coverUrl": "https://www.well-played.com.au/wp-content/uploads/2024/09/SM2-000.jpg",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaYxlDnoHJDv5qviD3tfqg2"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": ["Симуляторы", "Песочницы", "Экшн"],
