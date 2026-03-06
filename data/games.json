@@ -261,7 +261,7 @@
   {
     "title": "Warhammer 40,000: Space Marine 2",
     "platform": "PC",
-    "genres": ["Приключения/Квесты", "Экшн", "Кооп"],
+    "genres": ["Приключения/Квесты", "Шутеры", "Экшн", "Кооп"],
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/",
@@ -272,7 +272,7 @@
   {
     "title": "7 Days to Die",
     "platform": "PC",
-    "genres": ["Симуляторы", "Песочницы", "Экшн"],
+    "genres": ["Симуляторы", "Шутеры", "Песочницы", "Экшн"],
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
