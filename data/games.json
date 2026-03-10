@@ -281,6 +281,16 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY-gqKsuNKG2dva6kAm3TPr"
   },
   {
+    "title": "The Mortuary Assistant",
+    "platform": "PC",
+    "genres": ["Симуляторы", "Приключения/Квесты"],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/",
+    "coverLocal": "The-Mortuary-Assistant.webp",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295920/header.jpg",
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": ["Симуляторы", "Шутеры", "Песочницы", "Экшн"],
