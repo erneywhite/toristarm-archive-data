@@ -150,6 +150,16 @@
     "posterUrl": "https://animag.ru/sites/default/files/screenshots/review/2024/mahou-shoujo-ni-akogarete-430029891.jpg"
   },
   {
+    "title": "Маг-целитель: Новый старт",
+    "year": 2021,
+    "type": "series",
+    "seasons": 1,
+    "genres": ["Аниме", "Приключения", "Фэнтези"],
+    "rating": 8,
+	"posterLocal": "Redo-of-Healer.webp",
+    "posterUrl": "https://www.kino-teatr.ru/movie/kadr/153255/1119904.jpg"
+  },
+  {
 	"__comment": "Очень странные дела — пока не выводить",
     "title": "Очень странные дела",
     "year": 2016,
