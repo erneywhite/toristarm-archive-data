@@ -2,8 +2,11 @@
   {
     "title": "Quarantine Zone: The Last Check",
     "platform": "PC",
-    "genres": ["Симуляторы", "Приключения/Квесты"],
-    "status": "completed_stream", 
+    "genres": [
+      "Симуляторы",
+      "Приключения/Квесты"
+    ],
+    "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/",
     "coverLocal": "Quarantine-Zone-The-Last-Check.webp",
@@ -13,7 +16,11 @@
   {
     "title": "Stardew Valley",
     "platform": "PC",
-    "genres": ["Песочницы", "Симуляторы", "Казуальные"],
+    "genres": [
+      "Песочницы",
+      "Симуляторы",
+      "Казуальные"
+    ],
     "status": "in_progress_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/413150/Stardew_Valley/",
@@ -21,10 +28,15 @@
     "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg?t=1754692865",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZSmEAFCHt6tYkKaM1jNohQ"
   },
-   {
+  {
     "title": "RV There Yet?",
     "platform": "PC",
-    "genres": ["Roguelike", "Приключения/Квесты", "Казуальные", "Кооп"],
+    "genres": [
+      "Roguelike",
+      "Приключения/Квесты",
+      "Казуальные",
+      "Кооп"
+    ],
     "status": "in_progress_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/3949040/RV_There_Yet/",
@@ -35,7 +47,10 @@
   {
     "title": "Terraria",
     "platform": "PC",
-    "genres": ["Экшн", "Приключения/Квесты"],
+    "genres": [
+      "Экшн",
+      "Приключения/Квесты"
+    ],
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/105600/Terraria/",
@@ -45,7 +60,11 @@
   {
     "title": "Noita",
     "platform": "PC",
-    "genres": ["Экшн", "Приключения/Квесты", "Симуляторы"],
+    "genres": [
+      "Экшн",
+      "Приключения/Квесты",
+      "Симуляторы"
+    ],
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/881100/Noita/",
@@ -56,7 +75,11 @@
   {
     "title": "The Long Dark",
     "platform": "PC",
-    "genres": ["Экшн", "Приключения/Квесты", "Симуляторы"],
+    "genres": [
+      "Экшн",
+      "Приключения/Квесты",
+      "Симуляторы"
+    ],
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/305620/The_Long_Dark/",
@@ -67,7 +90,10 @@
   {
     "title": "Helltaker",
     "platform": "PC",
-    "genres": ["Головоломки", "Приключения/Квесты"],
+    "genres": [
+      "Головоломки",
+      "Приключения/Квесты"
+    ],
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/1289310/Helltaker/",
@@ -78,7 +104,10 @@
   {
     "title": "Bendy And the ink machine",
     "platform": "PC",
-    "genres": ["Головоломки", "Приключения/Квесты"],
+    "genres": [
+      "Головоломки",
+      "Приключения/Квесты"
+    ],
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
@@ -89,7 +118,11 @@
   {
     "title": "We Were Here Together",
     "platform": "PC",
-    "genres": ["Головоломки", "Приключения/Квесты", "Кооп"],
+    "genres": [
+      "Головоломки",
+      "Приключения/Квесты",
+      "Кооп"
+    ],
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/865360/We_Were_Here_Together/",
@@ -100,7 +133,10 @@
   {
     "title": "Voices of the Void",
     "platform": "PC",
-    "genres": ["Симуляторы", "Хорроры"],
+    "genres": [
+      "Симуляторы",
+      "Хорроры"
+    ],
     "status": "completed_stream",
     "rating": 10,
     "link": "https://mrdrnose.itch.io/votv",
@@ -110,7 +146,11 @@
   {
     "title": "Raft",
     "platform": "PC",
-    "genres": ["Симуляторы", "Приключения/Квесты", "Экшн"],
+    "genres": [
+      "Симуляторы",
+      "Приключения/Квесты",
+      "Экшн"
+    ],
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/648800/Raft/",
@@ -121,7 +161,11 @@
   {
     "title": "Kiosk",
     "platform": "PC",
-    "genres": ["Симуляторы", "Приключения/Квесты", "Хорроры"],
+    "genres": [
+      "Симуляторы",
+      "Приключения/Квесты",
+      "Хорроры"
+    ],
     "status": "completed_stream",
     "rating": 4,
     "link": "https://store.steampowered.com/app/3126330/Kiosk/",
@@ -131,7 +175,11 @@
   {
     "title": "The Boba Teashop",
     "platform": "PC",
-    "genres": ["Симуляторы", "Приключения/Квесты", "Хорроры"],
+    "genres": [
+      "Симуляторы",
+      "Приключения/Квесты",
+      "Хорроры"
+    ],
     "status": "completed_stream",
     "rating": 5,
     "link": "https://store.steampowered.com/app/3461920/The_Boba_Teashop/",
@@ -141,7 +189,11 @@
   {
     "title": "Subnautica",
     "platform": "PC",
-    "genres": ["Симуляторы", "Приключения/Квесты", "Экшн"],
+    "genres": [
+      "Симуляторы",
+      "Приключения/Квесты",
+      "Экшн"
+    ],
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/264710/Subnautica/",
@@ -152,7 +204,10 @@
   {
     "title": "Perfume Atelier",
     "platform": "PC",
-    "genres": ["Roguelike", "Казуальные"],
+    "genres": [
+      "Roguelike",
+      "Казуальные"
+    ],
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/3962270/Perfume_Atelier/",
@@ -163,7 +218,10 @@
   {
     "title": "Cats & Cups",
     "platform": "PC",
-    "genres": ["Roguelike", "Казуальные"],
+    "genres": [
+      "Roguelike",
+      "Казуальные"
+    ],
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/3521410/Cats__Cups/",
@@ -174,7 +232,10 @@
   {
     "title": "Souper Game",
     "platform": "PC",
-    "genres": ["Казуальные", "NSFW"],
+    "genres": [
+      "Казуальные",
+      "NSFW"
+    ],
     "status": "completed_stream",
     "rating": 6,
     "link": "https://store.steampowered.com/app/3181790/Souper_Game/",
@@ -184,7 +245,11 @@
   {
     "title": "KLETKA",
     "platform": "PC",
-    "genres": ["Roguelike", "Приключения/Квесты", "Кооп"],
+    "genres": [
+      "Roguelike",
+      "Приключения/Квесты",
+      "Кооп"
+    ],
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/1699480/KLET/",
@@ -195,7 +260,10 @@
   {
     "title": "We Escaped a Twisted Game",
     "platform": "PC",
-    "genres": ["Головоломки", "Кооп"],
+    "genres": [
+      "Головоломки",
+      "Кооп"
+    ],
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/2524930/We_Escaped_a_Twisted_Game/",
@@ -206,7 +274,10 @@
   {
     "title": "Buckshot Roulette",
     "platform": "PC",
-    "genres": ["Roguelike", "Кооп"],
+    "genres": [
+      "Roguelike",
+      "Кооп"
+    ],
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/2835570/Buckshot_Roulette/",
@@ -217,7 +288,10 @@
   {
     "title": "SIDE EFFECTS",
     "platform": "PC",
-    "genres": ["Roguelike", "Кооп"],
+    "genres": [
+      "Roguelike",
+      "Кооп"
+    ],
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/3799100/SIDE_EFFECTS/",
@@ -228,7 +302,11 @@
   {
     "title": "We Were Here Expeditions: The FriendShip",
     "platform": "PC",
-    "genres": ["Головоломки", "Приключения/Квесты", "Кооп"],
+    "genres": [
+      "Головоломки",
+      "Приключения/Квесты",
+      "Кооп"
+    ],
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/2296990/We_Were_Here_Expeditions_The_FriendShip/",
@@ -239,7 +317,12 @@
   {
     "title": "Abiotic Factor",
     "platform": "PC",
-    "genres": ["Приключения/Квесты", "Симуляторы", "Экшн", "Кооп"],
+    "genres": [
+      "Приключения/Квесты",
+      "Симуляторы",
+      "Экшн",
+      "Кооп"
+    ],
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/427410/Abiotic_Factor/",
@@ -250,7 +333,11 @@
   {
     "title": "We Were Here Forever",
     "platform": "PC",
-    "genres": ["Головоломки", "Приключения/Квесты", "Кооп"],
+    "genres": [
+      "Головоломки",
+      "Приключения/Квесты",
+      "Кооп"
+    ],
     "status": "completed_stream",
     "rating": 6,
     "link": "https://store.steampowered.com/app/1341290/We_Were_Here_Forever/",
@@ -261,7 +348,12 @@
   {
     "title": "Warhammer 40,000: Space Marine 2",
     "platform": "PC",
-    "genres": ["Приключения/Квесты", "Шутеры", "Экшн", "Кооп"],
+    "genres": [
+      "Приключения/Квесты",
+      "Шутеры",
+      "Экшн",
+      "Кооп"
+    ],
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/",
@@ -272,8 +364,12 @@
   {
     "title": "Mewgenics",
     "platform": "PC",
-    "genres": ["Приключения/Квесты", "Roguelike", "Стратегии"],
-    "status": "in_progress_stream",
+    "genres": [
+      "Приключения/Квесты",
+      "Roguelike",
+      "Стратегии"
+    ],
+    "status": "live_on_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/686060/Mewgenics/",
     "coverLocal": "Mewgenics.webp",
@@ -283,7 +379,10 @@
   {
     "title": "The Mortuary Assistant",
     "platform": "PC",
-    "genres": ["Симуляторы", "Приключения/Квесты"],
+    "genres": [
+      "Симуляторы",
+      "Приключения/Квесты"
+    ],
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/",
@@ -293,7 +392,10 @@
   {
     "title": "RimWorld",
     "platform": "PC",
-    "genres": ["Симуляторы", "Стратегии"],
+    "genres": [
+      "Симуляторы",
+      "Стратегии"
+    ],
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/294100/RimWorld/",
@@ -303,7 +405,12 @@
   {
     "title": "7 Days to Die",
     "platform": "PC",
-    "genres": ["Симуляторы", "Шутеры", "Песочницы", "Экшн"],
+    "genres": [
+      "Симуляторы",
+      "Шутеры",
+      "Песочницы",
+      "Экшн"
+    ],
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
