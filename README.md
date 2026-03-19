@@ -2,8 +2,6 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT"></a>
-  <img src="https://img.shields.io/badge/Игр-28-brightgreen" alt="28 games">
-  <img src="https://img.shields.io/badge/Фильмов%2FСериалов-17-orange" alt="17 movies">
   <img src="https://img.shields.io/badge/Формат-JSON-yellow" alt="JSON">
 </p>
 
