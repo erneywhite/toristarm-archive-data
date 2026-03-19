@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Формат-JSON-yellow" alt="JSON">
 </p>
 
-<p align="center">Данные для сайта-архива стримов <strong>Toristarm</strong>. Содержит информацию об играх и фильмах/сериалах: статус просмотра, оценки, жанры, ссылки на плейлисты YouTube.</p>
+<p align="center">Данные для сайта-архива стримов <strong>Toristarm</strong>. Содержит информацию об играх, фильмах/сериалах, а также текущий статус стримов на Twitch и Boosty: статус просмотра, оценки, жанры, ссылки на плейлисты YouTube.</p>
 
 ---
 
@@ -16,8 +16,8 @@
 - [Структура репозитория](#структура-репозитория)
 - [Схема данных](#схема-данных)
 - [Статусы](#статусы)
-- [Игры](#игры)
-- [Фильмы и сериалы](#фильмы-и-сериалы)
+- [Статус стримов](#статус-стримов)
+- [Добавление записи](#добавление-записи)
 
 ---
 
@@ -26,8 +26,9 @@
 ```
 toristarm-archive-data/
 └── data/
-    ├── games.json    # Список игр со стримов
-    └── movies.json   # Список фильмов и сериалов
+    ├── games.json          # Список игр со стримов
+    ├── movies.json         # Список фильмов и сериалов
+    └── stream_status.json  # Текущий статус стримов (Twitch / Boosty)
 ```
 
 ---
@@ -65,6 +66,15 @@ toristarm-archive-data/
 }
 ```
 
+### stream_status.json
+
+```jsonc
+{
+  "twitch_live": false,   // true = стрим идёт на Twitch
+  "boosty_live": false    // true = стрим идёт на Boosty
+}
+```
+
 ---
 
 ## Статусы
@@ -74,6 +84,19 @@ toristarm-archive-data/
 | `completed_stream` | Стрим завершён |
 | `in_progress_stream` | Стрим идёт сейчас / в процессе |
 | `planning_stream` | Запланировано, стрима ещё не было (rating = 0) |
+
+---
+
+## Статус стримов
+
+Файл `data/stream_status.json` хранит текущее состояние эфиров на платформах **Twitch** и **Boosty**. Используется сайтом Toristarm для отображения индикатора «В эфире».
+
+| Поле | Тип | Описание |
+|------|-----|----------|
+| `twitch_live` | `boolean` | `true` — стрим идёт на Twitch, `false` — не в эфире |
+| `boosty_live` | `boolean` | `true` — стрим идёт на Boosty, `false` — не в эфире |
+
+Статус обновляется автоматически через [Telegram-бот](https://github.com/erneywhite/toristarm-stream-bot) — при нажатии inline-кнопки бот пушит изменённый JSON через GitHub API.
 
 ---
 
