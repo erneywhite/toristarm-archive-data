@@ -208,6 +208,18 @@
     "posterUrl": "https://www.joblo.com/wp-content/uploads/2026/01/good-luck-have-fun-dont-die-poster-featured.jpg"
   },
   {
+    "title": "Я ругаюсь",
+    "year": 2025,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Драмы"
+    ],
+    "rating": 0,
+    "posterLocal": "I-Swear.webp",
+    "posterUrl": "https://avatars.mds.yandex.net/get-vthumb/2835853/64a9b34d687d971a5a06edd59354b896/800x450"
+  },
+  {
     "title": "Становясь волшебницей",
     "year": 2024,
     "type": "series",
