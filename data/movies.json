@@ -208,16 +208,17 @@
     "posterUrl": "https://www.joblo.com/wp-content/uploads/2026/01/good-luck-have-fun-dont-die-poster-featured.jpg"
   },
   {
-    "title": "Я ругаюсь",
-    "year": 2025,
+    "title": "Убойные каникулы",
+    "year": 2010,
     "type": "movie",
     "seasons": null,
     "genres": [
-      "Драмы"
+      "Комедии",
+      "Ужасы"
     ],
     "rating": 0,
-    "posterLocal": "I-Swear.webp",
-    "posterUrl": "https://avatars.mds.yandex.net/get-vthumb/2835853/64a9b34d687d971a5a06edd59354b896/800x450"
+    "posterLocal": "Tucker-and-Dale-vs-Evil.webp",
+    "posterUrl": "https://www.calgaryundergroundfilm.org/content/images/TuckerandDale_vs_Evil_main.2e16d0ba.fill-1180x700.jpg"
   },
   {
     "title": "Становясь волшебницей",
