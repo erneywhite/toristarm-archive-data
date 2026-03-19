@@ -1,3 +1,4 @@
 {
-  "is_live": false
+  "twitch_live": false,
+  "boosty_live": false
 }
