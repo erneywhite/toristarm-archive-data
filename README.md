@@ -79,8 +79,9 @@ toristarm-archive-data/
 
 | Статус | Описание |
 |--------|----------|
-| `completed_stream` | Стрим завершён |
-| `in_progress_stream` | Стрим идёт сейчас / в процессе |
+| `live_on_stream` | Стрим идёт сейчас |
+| `completed_stream` | Стримы по игре завершены |
+| `in_progress_stream` | Игра в процессе |
 | `planning_stream` | Запланировано, стрима ещё не было (rating = 0) |
 
 ---
