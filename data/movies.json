@@ -249,6 +249,20 @@
     "posterUrl": "https://ychef.files.bbci.co.uk/1280x720/p04w4b54.jpg"
   },
   {
+    "title": "Готика",
+    "year": 2003,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Триллеры",
+      "Детективы",
+      "Ужасы"
+    ],
+    "rating": 0,
+    "posterLocal": "Gothika.webp",
+    "posterUrl": "https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/trailers_frame/gothika.jpg"
+  },
+  {
     "title": "Становясь волшебницей",
     "year": 2024,
     "type": "series",
