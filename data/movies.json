@@ -221,6 +221,19 @@
     "posterUrl": "https://www.calgaryundergroundfilm.org/content/images/TuckerandDale_vs_Evil_main.2e16d0ba.fill-1180x700.jpg"
   },
   {
+    "title": "Демон внутри",
+    "year": 2016,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Триллеры",
+      "Ужасы"
+    ],
+    "rating": 0,
+    "posterLocal": "The-Autopsy-of-Jane-Doe.webp",
+    "posterUrl": "https://www.film.ru/sites/default/files/images/15741240-939917.jpg"
+  },
+  {
     "title": "Становясь волшебницей",
     "year": 2024,
     "type": "series",
