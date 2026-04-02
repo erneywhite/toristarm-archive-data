@@ -234,6 +234,21 @@
     "posterUrl": "https://www.film.ru/sites/default/files/images/15741240-939917.jpg"
   },
   {
+    "title": "Молчание ягнят",
+    "year": 1991,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Триллеры",
+      "Криминал",
+      "Детективы",
+      "Ужасы"
+    ],
+    "rating": 0,
+    "posterLocal": "The-Silence-of-the-Lambs.webp",
+    "posterUrl": "https://ychef.files.bbci.co.uk/1280x720/p04w4b54.jpg"
+  },
+  {
     "title": "Становясь волшебницей",
     "year": 2024,
     "type": "series",
