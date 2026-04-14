@@ -291,6 +291,20 @@
     "posterUrl": "https://www.kino-teatr.ru/movie/kadr/153255/1119904.jpg"
   },
   {
+    "title": "Межвидовые рецензенты",
+    "year": 2020,
+    "type": "series",
+    "seasons": 1,
+    "genres": [
+      "Аниме",
+      "Комедии",
+      "Фэнтези"
+    ],
+    "rating": 9,
+    "posterLocal": "Interspecies-Reviewers.webp",
+    "posterUrl": "https://media.myshows.me/shows/760/e/ef/eef86e8890cdd9438e0b945de30e80e2.jpg.jpg"
+  },
+  {
     "__comment": "Очень странные дела — пока не выводить",
     "title": "Очень странные дела",
     "year": 2016,
