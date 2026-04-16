@@ -263,6 +263,20 @@
     "posterUrl": "https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/trailers_frame/gothika.jpg"
   },
   {
+    "title": "28 лет спустя",
+    "year": 2025,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Триллеры",
+      "Боевики",
+      "Ужасы"
+    ],
+    "rating": 0,
+    "posterLocal": "28-Years-Later.webp",
+    "posterUrl": "https://www.soyuz.ru/public/uploads/files/5/7646069/1005x558_202506241536580274a7be28.jpg"
+  },
+  {
     "title": "Становясь волшебницей",
     "year": 2024,
     "type": "series",
