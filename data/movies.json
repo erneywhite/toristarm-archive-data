@@ -27,6 +27,37 @@
     "posterUrl": "https://my-travel-diary.by/wp-content/uploads/2017/03/split-movie-james-mcavoy-ending_1153x577.jpg"
   },
   {
+    "title": "Стекло",
+    "year": 2019,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Триллеры",
+      "Драмы",
+      "Боевики",
+      "Ужасы",
+      "Фантастика"
+    ],
+    "rating": 0,
+    "posterLocal": "Glass.webp",
+    "posterUrl": "https://russorosso.ru/wp-content/uploads/2019/01/glass-2019-review.jpg"
+  },
+  {
+    "title": "Неуязвимый",
+    "year": 2000,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Драмы",
+      "Детективы",
+      "Триллеры",
+      "Фантастика"
+    ],
+    "rating": 0,
+    "posterLocal": "Unbreakable.webp",
+    "posterUrl": "https://film-authority.com/wp-content/uploads/2020/08/unbreakable___wallpaper_by_xerlientt-db71c4w.png"
+  },
+  {
     "title": "Братья из Гримсби",
     "year": 2016,
     "type": "movie",
