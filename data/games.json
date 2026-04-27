@@ -434,6 +434,19 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
+    "title": "Voices of the Void",
+    "platform": "PC",
+    "genres": [
+      "Симуляторы",
+      "Хорроры"
+    ],
+    "status": "live_on_stream",
+    "rating": 0,
+    "link": "https://mrdrnose.itch.io/votv/",
+    "coverLocal": "Voices-of-the-Void.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaA373gatvAcdH1-gcQIiy4"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": [
