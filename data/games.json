@@ -435,6 +435,19 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
+    "title": "The Coffin of Andy and Leyley",
+    "platform": "PC",
+    "genres": [
+      "Хорроры",
+      "Приключения/Квесты"
+    ],
+    "status": "completed_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/2378900/The_Coffin_of_Andy_and_Leyley/",
+    "coverLocal": "The-Coffin-of-Andy-and-Leyley.webp",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Coffin_of_Andy_and_Leyley_Banner.png"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": [
