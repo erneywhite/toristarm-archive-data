@@ -363,6 +363,34 @@
     "posterUrl": "https://assets.americancinematheque.com/wp-content/uploads/2021/07/23013325/Dawn-of-the-Dead-Remake.png"
   },
   {
+    "title": "День, когда Земля остановилась",
+    "year": 2008,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Фантастика",
+      "Триллеры",
+      "Драмы"
+    ],
+    "rating": 7,
+    "posterLocal": "The-Day-the-Earth-Stood-Still.webp",
+    "posterUrl": "https://images.bauerhosting.com/legacy/empire-tmdb/films/10200/images/bfRgom0djZB8z7qbtjM542j3xrT.jpg"
+  },
+  {
+    "title": "Никто тебя не спасёт",
+    "year": 2023,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Фантастика",
+      "Триллеры",
+      "Ужасы"
+    ],
+    "rating": 0,
+    "posterLocal": "No-One-Will-Save-You.webp",
+    "posterUrl": "https://www.slashfilm.com/img/gallery/no-one-will-save-you-ending-explained-im-dancing-with-myself/what-the-end-of-no-one-will-save-you-means-1695673137.jpg"
+  },
+  {
     "title": "Становясь волшебницей",
     "year": 2024,
     "type": "series",
