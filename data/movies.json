@@ -406,6 +406,19 @@
     "posterUrl": "https://images.alphacoders.com/674/thumb-1920-674366.jpg"
   },
   {
+    "title": "Код 3",
+    "year": 2025,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Комедии",
+      "Боевики"
+    ],
+    "rating": 0,
+    "posterLocal": "Code-3.webp",
+    "posterUrl": "https://static.okko.tv/images/v4/27516df6-aac7-4dd4-94b3-94185b8bc1b2?scale=1&quality=80"
+  },
+  {
     "title": "Становясь волшебницей",
     "year": 2024,
     "type": "series",
