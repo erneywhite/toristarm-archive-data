@@ -414,7 +414,7 @@
       "Комедии",
       "Боевики"
     ],
-    "rating": 0,
+    "rating": 10,
     "posterLocal": "Code-3.webp",
     "posterUrl": "https://static.okko.tv/images/v4/27516df6-aac7-4dd4-94b3-94185b8bc1b2?scale=1&quality=80"
   },
@@ -428,7 +428,7 @@
       "Боевики",
       "Триллеры"
     ],
-    "rating": 0,
+    "rating": 8,
     "posterLocal": "Skyline.webp",
     "posterUrl": "https://static.okko.tv/images/v4/d80629a1-b4b3-4769-ab4c-635aaa493892?scale=1&quality=80"
   },
