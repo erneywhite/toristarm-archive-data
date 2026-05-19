@@ -448,6 +448,19 @@
     "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Coffin_of_Andy_and_Leyley_Banner.png"
   },
   {
+    "title": "Hellblade: Senua’s Sacrifice",
+    "platform": "PC",
+    "genres": [
+      "Хорроры",
+      "Приключения/Квесты"
+    ],
+    "status": "completed_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/",
+    "coverLocal": "The-Coffin-of-Andy-and-Leyley.webp",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Coffin_of_Andy_and_Leyley_Banner.png"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": [
