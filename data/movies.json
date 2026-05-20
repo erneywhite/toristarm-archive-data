@@ -472,7 +472,23 @@
     ],
     "rating": 9,
     "posterLocal": "Interspecies-Reviewers.webp",
-    "posterUrl": "https://media.myshows.me/shows/760/e/ef/eef86e8890cdd9438e0b945de30e80e2.jpg.jpg"
+    "posterUrl": "https://media.myshows.me/shows/760/e/ef/eef86e8890cdd9438e0b945de30e80e2.jpg"
+  },
+  {
+    "title": "Дандадан",
+    "year": 2024,
+    "type": "series",
+    "seasons": 2,
+    "genres": [
+      "Аниме",
+      "Комедии",
+      "Фантастика",
+      "Приключения",
+      "Сёнен"
+    ],
+    "rating": 0,
+    "posterLocal": "Dandadan.webp",
+    "posterUrl": "https://i.amediateka.tech/resize/1920x960/_stor_/cms/content-contentasset/8/01/cb1910dd3ea38c18d405410f4a388801-276211-09c79d7deb3746219e190565f1c5b234.jpg"
   },
   {
     "__comment": "Очень странные дела — пока не выводить",
