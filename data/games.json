@@ -485,6 +485,19 @@
     "coverUrl": "https://static.tvtropes.org/pmwiki/pub/images/papersplease_2640.png"
   },
   {
+    "title": "DOOM",
+    "platform": "PC",
+    "genres": [
+      "Шутеры",
+      "Приключения/Квесты"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/379720/DOOM/",
+    "coverLocal": "DOOM.webp",
+    "coverUrl": "https://coop-land.ru/uploads/posts/2016-05/1463146801_doom2015.jpg"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": [
