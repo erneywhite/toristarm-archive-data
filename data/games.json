@@ -14,6 +14,20 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
+    "title": "Kingdom Two Crowns",
+    "platform": "PC",
+    "genres": [
+      "Симуляторы",
+      "Стратегии",
+      "Приключения/Квесты"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/",
+    "coverLocal": "Kingdom-Two-Crowns.webp",
+    "coverUrl": "https://images.squarespace-cdn.com/content/v1/56b328fff699bbab113ee671/1587720471819-6ZN63DW8IYPXAS3FSE6S/KTC-Product-page_squarespace_header.png"
+  },
+  {
     "title": "Keep Driving",
     "platform": "PC",
     "genres": [
