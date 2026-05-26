@@ -454,10 +454,21 @@
       "Головоломки",
       "Приключения/Квесты"
     ],
-    "status": "in_progress_stream",
+    "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/",
     "coverLocal": "Hellblade-Senuas-Sacrifice.webp"
+  },
+  {
+    "title": "Frostpunk",
+    "platform": "PC",
+    "genres": [
+      "Симуляторы"
+    ],
+    "status": "in_progress_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/323190/Frostpunk/",
+    "coverLocal": "Frostpunk.webp"
   },
   {
     "title": "7 Days to Die",
