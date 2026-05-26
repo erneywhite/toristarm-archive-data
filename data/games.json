@@ -10,8 +10,22 @@
     "rating": 8,
     "link": "https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/",
     "coverLocal": "Quarantine-Zone-The-Last-Check.webp",
-    "coverUrl": "https://gaming-cdn.com/images/products/19416/orig/quarantine-zone-the-last-check-pc-steam-cover.jpg?v=1768619281",
+    "coverUrl": "https://gaming-cdn.com/images/products/19416/orig/quarantine-zone-the-last-check-pc-steam-cover.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
+  },
+  {
+    "title": "Gas Station Simulator",
+    "platform": "PC",
+    "genres": [
+      "Симуляторы",
+      "Казуальные",
+      "Стратегии"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/1149620/Gas_Station_Simulator/",
+    "coverLocal": "Gas-Station-Simulator.webp",
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ba073f748dc99c26ea9bf8e2eacda8ef449802a2/header.jpg",
   },
   {
     "title": "Stardew Valley",
