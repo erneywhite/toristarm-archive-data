@@ -511,6 +511,19 @@
     "coverUrl": "https://gaming-cdn.com/images/products/7664/orig/doom-eternal-pc-game-steam-cover.jpg"
   },
   {
+    "title": "Doom: The Dark Ages",
+    "platform": "PC",
+    "genres": [
+      "Шутеры",
+      "Приключения/Квесты"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/",
+    "coverLocal": "Doom-The-Dark-Ages.webp",
+    "coverUrl": "https://images.squarespace-cdn.com/content/v1/5db26c997fb6e442c3549e3d/1752160854622-MBYK6OIMA7PVN0EG94G6/Doom+The+Dark+Ages+7.jpg"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": [
