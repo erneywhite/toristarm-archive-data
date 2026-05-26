@@ -14,6 +14,20 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
+    "title": "SULFUR",
+    "platform": "PC",
+    "genres": [
+      "Roguelike",
+      "Шутеры",
+      "Приключения/Квесты"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/2124120/SULFUR/",
+    "coverLocal": "SULFUR.webp",
+    "coverUrl": "https://gaming-cdn.com/images/products/18217/orig/sulfur-pc-game-steam-cover.jpg"
+  },
+  {
     "title": "Kingdom Two Crowns",
     "platform": "PC",
     "genres": [
