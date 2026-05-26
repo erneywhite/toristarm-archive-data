@@ -14,6 +14,20 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
+    "title": "Keep Driving",
+    "platform": "PC",
+    "genres": [
+      "Симуляторы",
+      "Казуальные",
+      "Стратегии"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/2756920/Keep_Driving/",
+    "coverLocal": "Keep-Driving.webp",
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2756920/e3d16a713144cb300ca24fa827b61333dc7f56e2/capsule_616x353.jpg"
+  },
+  {
     "title": "Gas Station Simulator",
     "platform": "PC",
     "genres": [
