@@ -471,6 +471,20 @@
     "coverLocal": "Frostpunk.webp"
   },
   {
+    "title": "Papers, Please",
+    "platform": "PC",
+    "genres": [
+      "Головоломки",
+      "Симуляторы",
+      "Приключения/Квесты"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/239030/Papers_Please/",
+    "coverLocal": "Papers-Please.webp",
+    "coverUrl": "https://static.tvtropes.org/pmwiki/pub/images/papersplease_2640.png"
+  },
+  {
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": [
