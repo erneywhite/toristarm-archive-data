@@ -551,7 +551,8 @@
     "status": "in_progress_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/323190/Frostpunk/",
-    "coverLocal": "Frostpunk.webp"
+    "coverLocal": "Frostpunk.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY6UXyjf6zOafVfNS99BWtG"
   },
   {
     "title": "Papers, Please",
