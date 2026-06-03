@@ -10,7 +10,6 @@
     "rating": 8,
     "link": "https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/",
     "coverLocal": "Quarantine-Zone-The-Last-Check.webp",
-    "coverUrl": "https://gaming-cdn.com/images/products/19416/orig/quarantine-zone-the-last-check-pc-steam-cover.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
@@ -24,8 +23,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/",
-    "coverLocal": "Cult-of-the-Lamb.webp",
-    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg"
+    "coverLocal": "Cult-of-the-Lamb.webp"
   },
   {
     "title": "Zoochosis",
@@ -51,8 +49,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/2124120/SULFUR/",
-    "coverLocal": "SULFUR.webp",
-    "coverUrl": "https://gaming-cdn.com/images/products/18217/orig/sulfur-pc-game-steam-cover.jpg"
+    "coverLocal": "SULFUR.webp"
   },
   {
     "title": "Kingdom Two Crowns",
@@ -65,8 +62,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/",
-    "coverLocal": "Kingdom-Two-Crowns.webp",
-    "coverUrl": "https://images.squarespace-cdn.com/content/v1/56b328fff699bbab113ee671/1587720471819-6ZN63DW8IYPXAS3FSE6S/KTC-Product-page_squarespace_header.png"
+    "coverLocal": "Kingdom-Two-Crowns.webp"
   },
   {
     "title": "Keep Driving",
@@ -79,8 +75,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/2756920/Keep_Driving/",
-    "coverLocal": "Keep-Driving.webp",
-    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2756920/e3d16a713144cb300ca24fa827b61333dc7f56e2/capsule_616x353.jpg"
+    "coverLocal": "Keep-Driving.webp"
   },
   {
     "title": "Gas Station Simulator",
@@ -93,8 +88,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/1149620/Gas_Station_Simulator/",
-    "coverLocal": "Gas-Station-Simulator.webp",
-    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ba073f748dc99c26ea9bf8e2eacda8ef449802a2/header.jpg"
+    "coverLocal": "Gas-Station-Simulator.webp"
   },
   {
     "title": "Stardew Valley",
@@ -108,7 +102,6 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/413150/Stardew_Valley/",
     "coverLocal": "Stardew-Valley.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg?t=1754692865",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZSmEAFCHt6tYkKaM1jNohQ"
   },
   {
@@ -124,7 +117,6 @@
     "rating": 8,
     "link": "https://store.steampowered.com/app/3949040/RV_There_Yet/",
     "coverLocal": "RV-There-Yet.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/fc6856c47b9c695c24a2e64c60b619d7762b9717/capsule_616x353.jpg?t=1766020280",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
@@ -137,8 +129,7 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/105600/Terraria/",
-    "coverLocal": "Terraria.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/capsule_616x353.jpg?t=1769844435"
+    "coverLocal": "Terraria.webp"
   },
   {
     "title": "Noita",
@@ -152,7 +143,6 @@
     "rating": 7,
     "link": "https://store.steampowered.com/app/881100/Noita/",
     "coverLocal": "Noita.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/capsule_616x353.jpg?t=1675987871",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY76OntimvSzqlKrvVYRTzP"
   },
   {
@@ -167,7 +157,6 @@
     "rating": 8,
     "link": "https://store.steampowered.com/app/305620/The_Long_Dark/",
     "coverLocal": "The-Long-Dark.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/305620/header.jpg?t=1768865059",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYmBJtm4fVZo49Zk-ya5RZU"
   },
   {
@@ -181,7 +170,6 @@
     "rating": 10,
     "link": "https://store.steampowered.com/app/1289310/Helltaker/",
     "coverLocal": "Helltaker.webp",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Helltaker_Cover.jpg/250px-Helltaker_Cover.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
@@ -195,7 +183,6 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
     "coverLocal": "Bendy-And-the-ink-machine.webp",
-    "coverUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000012899/9381c82bcb85d723252de06ea9f1dda0c62a45ccbabcfaf1e35afa4d27ddadf7",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZDGuOHpS7ww4Ae89yNVGdc"
   },
   {
@@ -210,7 +197,6 @@
     "rating": 10,
     "link": "https://store.steampowered.com/app/865360/We_Were_Here_Together/",
     "coverLocal": "We-Were-Here-Together.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/865360/0de3cc415d89b19a3337945935b157dbbd96fa72/capsule_616x353.jpg?t=1764330773",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
@@ -224,7 +210,6 @@
     "rating": 10,
     "link": "https://mrdrnose.itch.io/votv/",
     "coverLocal": "Voices-of-the-Void.webp",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Voices_of_the_Void_cover.png",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaA373gatvAcdH1-gcQIiy4"
   },
   {
@@ -239,7 +224,6 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/648800/Raft/",
     "coverLocal": "Raft.webp",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/ru/f/f7/Raft.jpeg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oaersr6FG5RV7l861kjBSss"
   },
   {
@@ -253,8 +237,7 @@
     "status": "completed_stream",
     "rating": 4,
     "link": "https://store.steampowered.com/app/3126330/Kiosk/",
-    "coverLocal": "Kiosk.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3126330/8c681d4da598fc8cca305eed2329429fb9c0e249/capsule_616x353.jpg?t=1762538146"
+    "coverLocal": "Kiosk.webp"
   },
   {
     "title": "The Boba Teashop",
@@ -267,8 +250,7 @@
     "status": "completed_stream",
     "rating": 5,
     "link": "https://store.steampowered.com/app/3461920/The_Boba_Teashop/",
-    "coverLocal": "The-Boba-Teashop.webp",
-    "coverUrl": "https://steammachine.ru/slider/200023360-462x264.jpg"
+    "coverLocal": "The-Boba-Teashop.webp"
   },
   {
     "title": "Subnautica",
@@ -282,7 +264,6 @@
     "rating": 8,
     "link": "https://store.steampowered.com/app/264710/Subnautica/",
     "coverLocal": "Subnautica.webp",
-    "coverUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000030089/0500a5492e479ace4bdbfcf93048cb4b1464d3c5836a566e9f16f03d4d8b15ba",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9ObCoFqAF6AlbMtKKN33uT2h"
   },
   {
@@ -296,7 +277,6 @@
     "rating": 7,
     "link": "https://store.steampowered.com/app/3962270/Perfume_Atelier/",
     "coverLocal": "Perfume-Atelier.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3962270/b959b3337994270fd97a004b7d5250827baf7e80/header.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
@@ -310,7 +290,6 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/3521410/Cats__Cups/",
     "coverLocal": "Cats-and-Cups.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3521410/cf2b991b350980654144b33c03440a8911443426/header.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
@@ -323,8 +302,7 @@
     "status": "completed_stream",
     "rating": 6,
     "link": "https://store.steampowered.com/app/3181790/Souper_Game/",
-    "coverLocal": "Souper-Game.webp",
-    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181790/header.jpg"
+    "coverLocal": "Souper-Game.webp"
   },
   {
     "title": "KLETKA",
@@ -338,7 +316,6 @@
     "rating": 7,
     "link": "https://store.steampowered.com/app/1699480/KLET/",
     "coverLocal": "KLETKA.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1699480/dea2a12348a2fe0800a57a5145703e58e7660ebd/header.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
@@ -352,7 +329,6 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/2524930/We_Escaped_a_Twisted_Game/",
     "coverLocal": "We-Escaped-a-Twisted-Game.webp",
-    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnUl5C02S79HKLHSuJIL-tq6oaiViMSdWq7Q&s",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
@@ -366,7 +342,6 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/2835570/Buckshot_Roulette/",
     "coverLocal": "Buckshot-Roulette.webp",
-    "coverUrl": "https://gaming-cdn.com/images/products/16592/orig/buckshot-roulette-pc-game-steam-cover.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
@@ -380,7 +355,6 @@
     "rating": 8,
     "link": "https://store.steampowered.com/app/3799100/SIDE_EFFECTS/",
     "coverLocal": "SIDE-EFFECTS.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3799100/0c8bb9c8936562bc666501d1118812b984b0f48d/capsule_616x353.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
@@ -395,7 +369,6 @@
     "rating": 10,
     "link": "https://store.steampowered.com/app/2296990/We_Were_Here_Expeditions_The_FriendShip/",
     "coverLocal": "We-Were-Here-Expeditions-The-FriendShip.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2296990/header.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
@@ -411,7 +384,6 @@
     "rating": 10,
     "link": "https://store.steampowered.com/app/427410/Abiotic_Factor/",
     "coverLocal": "Abiotic-Factor.webp",
-    "coverUrl": "https://i.ytimg.com/vi/Wi5E7HKZ5K8/maxresdefault.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZQa3Um9m2sBEfuIfHEfVIr"
   },
   {
@@ -426,7 +398,6 @@
     "rating": 6,
     "link": "https://store.steampowered.com/app/1341290/We_Were_Here_Forever/",
     "coverLocal": "We-Were-Here-Forever.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1341290/header.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
@@ -442,7 +413,6 @@
     "rating": 10,
     "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/",
     "coverLocal": "Warhammer-40000-Space-Marine-2.webp",
-    "coverUrl": "https://www.well-played.com.au/wp-content/uploads/2024/09/SM2-000.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaYxlDnoHJDv5qviD3tfqg2"
   },
   {
@@ -457,7 +427,6 @@
     "rating": 10,
     "link": "https://store.steampowered.com/app/686060/Mewgenics/",
     "coverLocal": "Mewgenics.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/eedbfb4875ec6e0ffe25c17a02aaa15609e9136c/capsule_616x353.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY-gqKsuNKG2dva6kAm3TPr"
   },
   {
@@ -472,7 +441,6 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/",
     "coverLocal": "The-Mortuary-Assistant.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295920/header.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZUh2x8FHSL4VilKLV_SVhJ"
   },
   {
@@ -486,7 +454,6 @@
     "rating": 7,
     "link": "https://store.steampowered.com/app/2497900/DONT_SCREAM/",
     "coverLocal": "Dont-Scream.webp",
-    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497900/a7ce95275b7c88844334150fa7aa0d026023d4df/header.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZmrRRjrTRRxZgByqAA_G_I"
   },
   {
@@ -500,7 +467,6 @@
     "rating": 10,
     "link": "https://store.steampowered.com/app/294100/RimWorld/",
     "coverLocal": "RimWorld.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/capsule_616x353.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYO9bx9rNeqNAX-_pCEbXp7"
   },
   {
@@ -514,7 +480,6 @@
     "rating": 9,
     "link": "https://store.steampowered.com/app/3812600/ReStory_Chill_Electronics_Repairs/",
     "coverLocal": "ReStory-Chill-Electronics-Repairs.webp",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3812600/71edea492e4bde45b8dd7b50c26f7563fccf74e6/capsule_616x353_alt_assets_0.jpg",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
@@ -527,8 +492,7 @@
     "status": "in_progress_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/2378900/The_Coffin_of_Andy_and_Leyley/",
-    "coverLocal": "The-Coffin-of-Andy-and-Leyley.webp",
-    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Coffin_of_Andy_and_Leyley_Banner.png"
+    "coverLocal": "The-Coffin-of-Andy-and-Leyley.webp"
   },
   {
     "title": "Hellblade: Senua’s Sacrifice",
@@ -566,8 +530,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/239030/Papers_Please/",
-    "coverLocal": "Papers-Please.webp",
-    "coverUrl": "https://static.tvtropes.org/pmwiki/pub/images/papersplease_2640.png"
+    "coverLocal": "Papers-Please.webp"
   },
   {
     "title": "DOOM",
@@ -579,8 +542,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/379720/DOOM/",
-    "coverLocal": "DOOM.webp",
-    "coverUrl": "https://coop-land.ru/uploads/posts/2016-05/1463146801_doom2015.jpg"
+    "coverLocal": "DOOM.webp"
   },
   {
     "title": "Doom Eternal",
@@ -592,8 +554,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/782330/DOOM_Eternal/",
-    "coverLocal": "Doom-Eternal.webp",
-    "coverUrl": "https://gaming-cdn.com/images/products/7664/orig/doom-eternal-pc-game-steam-cover.jpg"
+    "coverLocal": "Doom-Eternal.webp"
   },
   {
     "title": "Doom: The Dark Ages",
@@ -605,8 +566,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/",
-    "coverLocal": "Doom-The-Dark-Ages.webp",
-    "coverUrl": "https://images.squarespace-cdn.com/content/v1/5db26c997fb6e442c3549e3d/1752160854622-MBYK6OIMA7PVN0EG94G6/Doom+The+Dark+Ages+7.jpg"
+    "coverLocal": "Doom-The-Dark-Ages.webp"
   },
   {
     "title": "Pacific Drive",
@@ -618,8 +578,7 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/1458140/Pacific_Drive/",
-    "coverLocal": "Pacific-Drive.webp",
-    "coverUrl": "https://keysforgamers.com/images/product/3/1/134522/pacific-drive-pc_icon-1200-600_4.jpg"
+    "coverLocal": "Pacific-Drive.webp"
   },
   {
     "title": "7 Days to Die",
@@ -633,7 +592,6 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
-    "coverLocal": "7-Days-to-Die.webp",
-    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1766024790"
+    "coverLocal": "7-Days-to-Die.webp"
   }
 ]
