@@ -15,6 +15,7 @@
 - [Схема данных](#схема-данных)
 - [Статусы](#статусы)
 - [Статус стримов](#статус-стримов)
+- [Валидация](#валидация)
 - [Добавление записи](#добавление-записи)
 
 ---
@@ -23,10 +24,14 @@
 
 ```
 toristarm-archive-data/
-└── data/
-    ├── games.json          # Список игр со стримов
-    ├── movies.json         # Список фильмов и сериалов
-    └── stream_status.json  # Текущий статус стримов (Twitch / Boosty)
+├── data/
+│   ├── games.json          # Список игр со стримов
+│   ├── movies.json         # Список фильмов и сериалов
+│   └── stream_status.json  # Текущий статус стримов (Twitch / Boosty)
+├── tools/
+│   └── validate-data.mjs   # Валидатор данных (Node, без зависимостей)
+└── .github/workflows/
+    └── validate-data.yml   # CI: проверка данных на push
 ```
 
 ---
@@ -39,12 +44,11 @@ toristarm-archive-data/
 {
   "title":       "Название игры",
   "platform":    "PC",
-  "genres":      ["Жанр1", "Жанр2"],
-  "status":      "completed_stream",   // статус стрима
-  "rating":      10,                    // 0–10, 0 = ещё не стримили
-  "link":        "https://...",         // ссылка на Steam / itch.io
-  "coverLocal":  "Filename.webp",       // локальный файл обложки
-  "coverUrl":    "https://...",         // внешняя ссылка на обложку
+  "genres":      ["Жанр1", "Жанр2"],    // из словаря жанров игр (см. «Валидация»)
+  "status":      "completed_stream",    // статус стрима (см. «Статусы»)
+  "rating":      10,                    // целое 0–10, 0 = ещё не стримили
+  "coverLocal":  "Filename.webp",       // локальная обложка (в assets/covers/ сайта)
+  "link":        "https://...",         // Steam / itch.io (опционально)
   "playlistUrl": "https://youtube..."   // плейлист YouTube (опционально)
 }
 ```
@@ -57,12 +61,16 @@ toristarm-archive-data/
   "year":        1999,
   "type":        "movie",     // movie | series
   "seasons":     null,        // null для фильмов, число для сериалов
-  "genres":      ["Жанр1"],
-  "rating":      9,
-  "posterLocal": "Filename.webp",
-  "posterUrl":   "https://..."
+  "genres":      ["Жанр1"],   // из словаря жанров фильмов (см. «Валидация»)
+  "rating":      9,           // целое 0–10
+  "posterLocal": "Filename.webp"
 }
 ```
+
+> [!NOTE]
+> Внешние `coverUrl` / `posterUrl` — опциональный устаревший фоллбэк. В данных
+> больше не используются (все обложки локальные); валидатор их допускает, но в
+> новые записи их добавлять не нужно.
 
 ### stream_status.json
 
@@ -99,6 +107,33 @@ toristarm-archive-data/
 
 ---
 
+## Валидация
+
+Каждый push, меняющий `data/games.json` или `data/movies.json`, запускает GitHub
+Action ([`validate-data.yml`](.github/workflows/validate-data.yml)) — он прогоняет
+[`tools/validate-data.mjs`](tools/validate-data.mjs).
+
+- **Жёстко** (сборка падает, красный ✗ + письмо): невалидный JSON, отсутствие
+  обязательных полей, неверные типы, `rating` вне 0–10, неизвестный `status`
+  (игры) или `type` (фильмы).
+- **Мягко** (предупреждение, сборку не валит): жанр вне словаря — вероятная опечатка.
+
+Локально, без установки зависимостей:
+```bash
+node tools/validate-data.mjs
+```
+
+### Словарь жанров
+
+Игры и фильмы используют **разные** наборы (фильтр на сайте строится отдельно по табам).
+
+- **Игры:** Головоломки, Инди, Казуальные, Кооп, Песочницы, Приключения/Квесты, Симуляторы, Стратегии, Файтинги, Хорроры, Шутеры, Экшн, NSFW, Roguelike.
+- **Фильмы:** Аниме, Боевики, Детективы, Драмы, Комедии, Криминал, Мультфильмы, Приключения, Сёнен, Триллеры, Ужасы, Фантастика, Фэнтези.
+
+Новый жанр → добавить строку в нужный набор в `tools/validate-data.mjs`.
+
+---
+
 ## Добавление записи
 
 **Игра** — добавить объект в `data/games.json`:
@@ -109,9 +144,8 @@ toristarm-archive-data/
   "genres":      ["Жанр"],
   "status":      "planning_stream",  // completed_stream | in_progress_stream | planning_stream
   "rating":      0,                  // 0 если ещё не стримили
-  "link":        "https://store.steampowered.com/app/XXXXX/",
   "coverLocal":  "Название-файла.webp",
-  "coverUrl":    "https://..."
+  "link":        "https://store.steampowered.com/app/XXXXX/"
 }
 ```
 
@@ -124,8 +158,7 @@ toristarm-archive-data/
   "seasons":     null,      // null для фильма, число для сериала
   "genres":      ["Жанр"],
   "rating":      0,
-  "posterLocal": "Название-файла.webp",
-  "posterUrl":   "https://..."
+  "posterLocal": "Название-файла.webp"
 }
 ```
 
