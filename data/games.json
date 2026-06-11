@@ -26,6 +26,18 @@
     "coverLocal": "Cult-of-the-Lamb.webp"
   },
   {
+    "title": "Backseat Drivers",
+    "platform": "PC",
+    "genres": [
+      "Казуальные",
+      "Симуляторы"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/3558400/Backseat_Drivers/",
+    "coverLocal": "Backseat-Drivers.webp"
+  },
+  {
     "title": "Zoochosis",
     "platform": "PC",
     "genres": [
