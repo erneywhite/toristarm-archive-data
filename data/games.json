@@ -437,7 +437,7 @@
       "Roguelike",
       "Стратегии"
     ],
-    "status": "in_progress_stream",
+    "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/686060/Mewgenics/",
     "coverLocal": "Mewgenics.webp",
@@ -527,8 +527,8 @@
     "genres": [
       "Симуляторы"
     ],
-    "status": "in_progress_stream",
-    "rating": 0,
+    "status": "completed_stream",
+    "rating": 9,
     "link": "https://store.steampowered.com/app/323190/Frostpunk/",
     "coverLocal": "Frostpunk.webp",
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY6UXyjf6zOafVfNS99BWtG"
