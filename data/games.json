@@ -592,7 +592,8 @@
     "status": "in_progress_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/1458140/Pacific_Drive/",
-    "coverLocal": "Pacific-Drive.webp"
+    "coverLocal": "Pacific-Drive.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLb48svMQ2VDA"
   },
   {
     "title": "7 Days to Die",
