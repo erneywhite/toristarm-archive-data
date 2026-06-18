@@ -26,6 +26,19 @@
     "posterLocal": "Back-to-the-Future.webp"
   },
   {
+    "title": "Назад в будущее 2",
+    "year": 1989,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Комедии",
+      "Фантастика",
+      "Приключения"
+    ],
+    "rating": 0,
+    "posterLocal": "Back-to-the-Future-Part-2.webp"
+  },
+  {
     "title": "Сплит",
     "year": 2016,
     "type": "movie",
