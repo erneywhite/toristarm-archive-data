@@ -39,6 +39,19 @@
     "posterLocal": "Back-to-the-Future-Part-2.webp"
   },
   {
+    "title": "Назад в будущее 3",
+    "year": 1990,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Комедии",
+      "Фантастика",
+      "Приключения"
+    ],
+    "rating": 0,
+    "posterLocal": "Back-to-the-Future-Part-3.webp"
+  },
+  {
     "title": "Сплит",
     "year": 2016,
     "type": "movie",
