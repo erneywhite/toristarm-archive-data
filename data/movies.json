@@ -13,6 +13,19 @@
     "posterLocal": "Mask.webp"
   },
   {
+    "title": "Назад в будущее",
+    "year": 1985,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Комедии",
+      "Фантастика",
+      "Приключения"
+    ],
+    "rating": 0,
+    "posterLocal": "Back-to-the-Future.webp"
+  },
+  {
     "title": "Сплит",
     "year": 2016,
     "type": "movie",
