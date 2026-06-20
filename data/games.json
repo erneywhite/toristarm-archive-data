@@ -26,6 +26,18 @@
     "coverLocal": "Cult-of-the-Lamb.webp"
   },
   {
+    "title": "MECCHA CHAMELEON",
+    "platform": "PC",
+    "genres": [
+      "Казуальные",
+      "Кооп"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/",
+    "coverLocal": "MECCHA-CHAMELEON.webp"
+  },
+  {
     "title": "Backseat Drivers",
     "platform": "PC",
     "genres": [
