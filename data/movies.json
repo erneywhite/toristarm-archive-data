@@ -13,6 +13,18 @@
     "posterLocal": "Mask.webp"
   },
   {
+    "title": "Шоу Трумана",
+    "year": 1998,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Комедии",
+      "Драмы"
+    ],
+    "rating": 0,
+    "posterLocal": "The-Truman-Show.webp"
+  },
+  {
     "title": "Назад в будущее",
     "year": 1985,
     "type": "movie",
