@@ -13,6 +13,18 @@
     "posterLocal": "Mask.webp"
   },
   {
+    "title": "Терминатор 2: Судный день",
+    "year": 1991,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Фантастика",
+      "Боевики"
+    ],
+    "rating": 0,
+    "posterLocal": "Terminator-2-Judgment-Day.webp"
+  },
+  {
     "title": "Терминатор",
     "year": 1984,
     "type": "movie",
@@ -21,7 +33,7 @@
       "Фантастика",
       "Боевики"
     ],
-    "rating": 0,
+    "rating": 8,
     "posterLocal": "The-Terminator.webp"
   },
   {
