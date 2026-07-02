@@ -13,6 +13,18 @@
     "posterLocal": "Mask.webp"
   },
   {
+    "title": "Терминатор",
+    "year": 1984,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Фантастика",
+      "Боевики"
+    ],
+    "rating": 0,
+    "posterLocal": "The-Terminator.webp"
+  },
+  {
     "title": "Шоу Трумана",
     "year": 1998,
     "type": "movie",
