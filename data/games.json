@@ -13,6 +13,19 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
+    "title": "Drive Beyond Horizons",
+    "platform": "PC",
+    "genres": [
+      "Roguelike",
+      "Приключения/Квесты",
+      "Казуальные"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/2625420/Drive_Beyond_Horizons/",
+    "coverLocal": "Drive-Beyond-Horizons.webp"
+  },
+  {
     "title": "Cult of the Lamb",
     "platform": "PC",
     "genres": [
