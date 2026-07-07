@@ -21,9 +21,10 @@
       "Казуальные"
     ],
     "status": "in_progress_stream",
-    "rating": 0,
+    "rating": 7,
     "link": "https://store.steampowered.com/app/2625420/Drive_Beyond_Horizons/",
-    "coverLocal": "Drive-Beyond-Horizons.webp"
+    "coverLocal": "Drive-Beyond-Horizons.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
     "title": "Cult of the Lamb",
@@ -48,7 +49,8 @@
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/",
-    "coverLocal": "MECCHA-CHAMELEON.webp"
+    "coverLocal": "MECCHA-CHAMELEON.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT"
   },
   {
     "title": "Backseat Drivers",
