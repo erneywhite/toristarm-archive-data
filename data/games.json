@@ -27,6 +27,19 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "title": "Split Fiction",
+    "platform": "PC",
+    "genres": [
+      "Головоломки",
+      "Приключения/Квесты",
+      "Кооп"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/2001120/Split_Fiction/",
+    "coverLocal": "Split-Fiction.webp"
+  },
+  {
     "title": "Cult of the Lamb",
     "platform": "PC",
     "genres": [
