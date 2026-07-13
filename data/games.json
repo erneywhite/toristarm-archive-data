@@ -13,6 +13,20 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
+    "title": "Voidtrain",
+    "platform": "PC",
+    "genres": [
+      "Roguelike",
+      "Приключения/Квесты",
+      "Шутеры"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/1159690/Voidtrain/",
+    "coverLocal": "Voidtrain.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+  },
+  {
     "title": "Drive Beyond Horizons",
     "platform": "PC",
     "genres": [
