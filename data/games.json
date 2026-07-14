@@ -13,6 +13,19 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
+    "title": "Gamble With Your Friends",
+    "platform": "PC",
+    "genres": [
+      "Roguelike",
+      "Симуляторы"
+    ],
+    "status": "completed_stream",
+    "rating": 8,
+    "link": "https://store.steampowered.com/app/3892270/Gamble_With_Your_Friends/",
+    "coverLocal": "Gamble-With-Your-Friends.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+  },
+  {
     "title": "Voidtrain",
     "platform": "PC",
     "genres": [
