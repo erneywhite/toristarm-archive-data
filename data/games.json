@@ -13,6 +13,20 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
+    "title": "PEAK",
+    "platform": "PC",
+    "genres": [
+      "Roguelike",
+      "Симуляторы",
+      "Приключения/Квесты"
+    ],
+    "status": "completed_stream",
+    "rating": 7,
+    "link": "https://store.steampowered.com/app/3527290/PEAK/",
+    "coverLocal": "PEAK.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+  },
+  {
     "title": "Gamble With Your Friends",
     "platform": "PC",
     "genres": [
