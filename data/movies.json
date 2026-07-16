@@ -13,6 +13,17 @@
     "posterLocal": "Mask.webp"
   },
   {
+    "title": "Тупой и еще тупее",
+    "year": 1994,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Комедии"
+    ],
+    "rating": 0,
+    "posterLocal": "Dumb-Dumber.webp"
+  },
+  {
     "title": "Терминатор 2: Судный день",
     "year": 1991,
     "type": "movie",
