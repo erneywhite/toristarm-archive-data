@@ -128,9 +128,10 @@
       "Приключения/Квесты"
     ],
     "status": "in_progress_stream",
-    "rating": 0,
+    "rating": 7,
     "link": "https://store.steampowered.com/app/2458560/Zoochosis/",
-    "coverLocal": "Zoochosis.webp"
+    "coverLocal": "Zoochosis.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLRe343Hi-WwY"
   },
   {
     "title": "SULFUR",
@@ -623,9 +624,10 @@
       "Приключения/Квесты"
     ],
     "status": "in_progress_stream",
-    "rating": 0,
+    "rating": 9,
     "link": "https://store.steampowered.com/app/239030/Papers_Please/",
-    "coverLocal": "Papers-Please.webp"
+    "coverLocal": "Papers-Please.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLCv9i8xrw1iY"
   },
   {
     "title": "DOOM",
