@@ -488,6 +488,19 @@
     "posterLocal": "Skyline.webp"
   },
   {
+    "title": "Джуманджи",
+    "year": 1995,
+    "type": "movie",
+    "seasons": null,
+    "genres": [
+      "Приключения",
+      "Семейные",
+      "Фэнтези"
+    ],
+    "rating": 9,
+    "posterLocal": "Jumanji.webp"
+  },
+  {
     "title": "Становясь волшебницей",
     "year": 2024,
     "type": "series",
