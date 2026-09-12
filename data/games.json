@@ -13,6 +13,19 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
+    "title": "How to Fish",
+    "platform": "PC",
+    "genres": [
+      "Симуляторы",
+      "Roguelike"
+    ],
+    "status": "live_on_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/4001890/How_to_Fish/",
+    "coverLocal": "How-to-Fish.webp",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT"
+  },
+  {
     "title": "PEAK",
     "platform": "PC",
     "genres": [
