@@ -8,6 +8,7 @@ on:
       - 'data/games.json'
       - 'data/movies.json'
       - 'data/genres.json'
+      - 'covers/**'
       - 'tools/validate-data.mjs'
       - '.github/workflows/validate-data.yml'
   pull_request:

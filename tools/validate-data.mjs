@@ -8,11 +8,14 @@
 //
 // Новый жанр? Добавь строку в data/genres.json.
 
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const DATA_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'data');
+// Сжатые обложки (webp) лежат рядом с данными; оригиналы — только на сервере админки
+const COVERS_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'covers');
+const hasCover = (name) => existsSync(join(COVERS_DIR, name));
 
 const GAME_STATUS = new Set(['completed_stream', 'in_progress_stream', 'planning_stream', 'live_on_stream']);
 const MOVIE_TYPE  = new Set(['movie', 'series']);
@@ -96,6 +99,7 @@ function validateGames(arr, genres) {
     if (!isInt(it.rating) || it.rating < 0 || it.rating > 10) err(file, `${at}: rating — целое 0..10 (сейчас ${JSON.stringify(it.rating)})`);
     if (!isStr(it.coverLocal)) err(file, `${at}: поле coverLocal обязательно`);
     else if (!it.coverLocal.endsWith('.webp')) warn(file, `${at}: coverLocal «${it.coverLocal}» не оканчивается на .webp`);
+    else if (!hasCover(it.coverLocal)) warn(file, `${at}: обложки ${it.coverLocal} нет в covers/`);
     checkGenres(file, at, it.genres, genres);
     if (it.link !== undefined && !isStr(it.link)) err(file, `${at}: link должен быть строкой`);
     if (it.playlistUrl !== undefined && !isStr(it.playlistUrl)) err(file, `${at}: playlistUrl должен быть строкой`);
@@ -122,6 +126,7 @@ function validateMovies(arr, genres) {
     if (!isInt(it.rating) || it.rating < 0 || it.rating > 10) err(file, `${at}: rating — целое 0..10 (сейчас ${JSON.stringify(it.rating)})`);
     if (!isDraft && !isStr(it.posterLocal)) err(file, `${at}: поле posterLocal обязательно`);
     if (isStr(it.posterLocal) && !it.posterLocal.endsWith('.webp')) warn(file, `${at}: posterLocal «${it.posterLocal}» не оканчивается на .webp`);
+    else if (isStr(it.posterLocal) && !hasCover(it.posterLocal)) warn(file, `${at}: кадра ${it.posterLocal} нет в covers/`);
     checkGenres(file, at, it.genres, genres);
     if (it.year !== undefined && !isInt(it.year)) err(file, `${at}: year должен быть целым числом`);
     if (it.seasons !== undefined && it.seasons !== null && !isInt(it.seasons)) err(file, `${at}: seasons должен быть целым числом или null`);
