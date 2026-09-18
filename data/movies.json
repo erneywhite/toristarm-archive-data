@@ -11,7 +11,8 @@
       "Криминал"
     ],
     "rating": 10,
-    "posterLocal": "Mask.webp"
+    "posterLocal": "Mask.webp",
+    "addedAt": "2026-01-31"
   },
   {
     "id": "tupoy-i-esche-tupee",
@@ -23,7 +24,8 @@
       "Комедии"
     ],
     "rating": 9,
-    "posterLocal": "Dumb-Dumber.webp"
+    "posterLocal": "Dumb-Dumber.webp",
+    "addedAt": "2026-07-16"
   },
   {
     "id": "terminator-2-sudnyy-den",
@@ -36,7 +38,8 @@
       "Боевики"
     ],
     "rating": 9,
-    "posterLocal": "Terminator-2-Judgment-Day.webp"
+    "posterLocal": "Terminator-2-Judgment-Day.webp",
+    "addedAt": "2026-07-02"
   },
   {
     "id": "terminator",
@@ -49,7 +52,8 @@
       "Боевики"
     ],
     "rating": 8,
-    "posterLocal": "The-Terminator.webp"
+    "posterLocal": "The-Terminator.webp",
+    "addedAt": "2026-07-02"
   },
   {
     "id": "shou-trumana",
@@ -62,7 +66,8 @@
       "Драмы"
     ],
     "rating": 9,
-    "posterLocal": "The-Truman-Show.webp"
+    "posterLocal": "The-Truman-Show.webp",
+    "addedAt": "2026-06-29"
   },
   {
     "id": "nazad-v-buduschee",
@@ -76,7 +81,8 @@
       "Приключения"
     ],
     "rating": 10,
-    "posterLocal": "Back-to-the-Future.webp"
+    "posterLocal": "Back-to-the-Future.webp",
+    "addedAt": "2026-06-18"
   },
   {
     "id": "nazad-v-buduschee-2",
@@ -90,7 +96,8 @@
       "Приключения"
     ],
     "rating": 8,
-    "posterLocal": "Back-to-the-Future-Part-2.webp"
+    "posterLocal": "Back-to-the-Future-Part-2.webp",
+    "addedAt": "2026-06-18"
   },
   {
     "id": "nazad-v-buduschee-3",
@@ -104,7 +111,8 @@
       "Приключения"
     ],
     "rating": 10,
-    "posterLocal": "Back-to-the-Future-Part-3.webp"
+    "posterLocal": "Back-to-the-Future-Part-3.webp",
+    "addedAt": "2026-06-18"
   },
   {
     "id": "split",
@@ -117,7 +125,8 @@
       "Ужасы"
     ],
     "rating": 9,
-    "posterLocal": "Split.webp"
+    "posterLocal": "Split.webp",
+    "addedAt": "2026-04-23"
   },
   {
     "id": "steklo",
@@ -133,7 +142,8 @@
       "Фантастика"
     ],
     "rating": 9,
-    "posterLocal": "Glass.webp"
+    "posterLocal": "Glass.webp",
+    "addedAt": "2026-04-23"
   },
   {
     "id": "neuyazvimyy",
@@ -148,7 +158,8 @@
       "Фантастика"
     ],
     "rating": 8,
-    "posterLocal": "Unbreakable.webp"
+    "posterLocal": "Unbreakable.webp",
+    "addedAt": "2026-04-23"
   },
   {
     "id": "bratya-iz-grimsbi",
@@ -162,7 +173,8 @@
       "Приключения"
     ],
     "rating": 10,
-    "posterLocal": "Grimsby.webp"
+    "posterLocal": "Grimsby.webp",
+    "addedAt": "2026-01-31"
   },
   {
     "id": "golyy-pistolet",
@@ -175,7 +187,8 @@
       "Криминал"
     ],
     "rating": 10,
-    "posterLocal": "The-Naked-Gun.webp"
+    "posterLocal": "The-Naked-Gun.webp",
+    "addedAt": "2026-01-31"
   },
   {
     "id": "zelenaya-milya",
@@ -189,7 +202,8 @@
       "Криминал"
     ],
     "rating": 9,
-    "posterLocal": "The-Green-Mile.webp"
+    "posterLocal": "The-Green-Mile.webp",
+    "addedAt": "2026-01-31"
   },
   {
     "id": "interstellar",
@@ -203,7 +217,8 @@
       "Приключения"
     ],
     "rating": 10,
-    "posterLocal": "Interstellar.webp"
+    "posterLocal": "Interstellar.webp",
+    "addedAt": "2026-01-31"
   },
   {
     "id": "mayor-peyn",
@@ -215,7 +230,8 @@
       "Комедии"
     ],
     "rating": 9,
-    "posterLocal": "Major-Payne.webp"
+    "posterLocal": "Major-Payne.webp",
+    "addedAt": "2026-01-31"
   },
   {
     "id": "boytsovskiy-klub",
@@ -228,7 +244,8 @@
       "Криминал"
     ],
     "rating": 9,
-    "posterLocal": "Fight-Club.webp"
+    "posterLocal": "Fight-Club.webp",
+    "addedAt": "2026-01-31"
   },
   {
     "id": "rekviem-po-mechte",
@@ -240,7 +257,8 @@
       "Драмы"
     ],
     "rating": 8,
-    "posterLocal": "Requiem-for-a-Dream.webp"
+    "posterLocal": "Requiem-for-a-Dream.webp",
+    "addedAt": "2026-02-03"
   },
   {
     "id": "vlastelin-kolets-bratstvo-koltsa",
@@ -254,7 +272,8 @@
       "Фэнтези"
     ],
     "rating": 9,
-    "posterLocal": "The-Lord-of-the-Rings-The-Fellowship-of-the-Ring.webp"
+    "posterLocal": "The-Lord-of-the-Rings-The-Fellowship-of-the-Ring.webp",
+    "addedAt": "2026-01-31"
   },
   {
     "id": "vlastelin-kolets-dve-kreposti",
@@ -268,7 +287,8 @@
       "Фэнтези"
     ],
     "rating": 9,
-    "posterLocal": "The-Lord-of-the-Rings-The-Two-Towers.webp"
+    "posterLocal": "The-Lord-of-the-Rings-The-Two-Towers.webp",
+    "addedAt": "2026-02-14"
   },
   {
     "id": "vlastelin-kolets-vozvraschenie-korolya",
@@ -282,7 +302,8 @@
       "Фэнтези"
     ],
     "rating": 9,
-    "posterLocal": "The-Lord-of-the-Rings-The-Return-of-the-King.webp"
+    "posterLocal": "The-Lord-of-the-Rings-The-Return-of-the-King.webp",
+    "addedAt": "2026-02-14"
   },
   {
     "id": "krysinye-bega",
@@ -295,7 +316,8 @@
       "Приключения"
     ],
     "rating": 10,
-    "posterLocal": "Rat-Race.webp"
+    "posterLocal": "Rat-Race.webp",
+    "addedAt": "2026-02-17"
   },
   {
     "id": "ratatuy",
@@ -311,7 +333,8 @@
       "Мультфильмы"
     ],
     "rating": 10,
-    "posterLocal": "Ratatouille.webp"
+    "posterLocal": "Ratatouille.webp",
+    "addedAt": "2026-02-17"
   },
   {
     "id": "monstr-v-parizhe",
@@ -327,7 +350,8 @@
       "Мультфильмы"
     ],
     "rating": 10,
-    "posterLocal": "A-Monster-in-Paris.webp"
+    "posterLocal": "A-Monster-in-Paris.webp",
+    "addedAt": "2026-02-17"
   },
   {
     "id": "udachi-veselya-ne-sdohni",
@@ -342,7 +366,8 @@
       "Боевики"
     ],
     "rating": 8,
-    "posterLocal": "Good-Luck-Have-Fun-Dont-Die.webp"
+    "posterLocal": "Good-Luck-Have-Fun-Dont-Die.webp",
+    "addedAt": "2026-03-19"
   },
   {
     "id": "uboynye-kanikuly",
@@ -355,7 +380,8 @@
       "Ужасы"
     ],
     "rating": 8,
-    "posterLocal": "Tucker-and-Dale-vs-Evil.webp"
+    "posterLocal": "Tucker-and-Dale-vs-Evil.webp",
+    "addedAt": "2026-03-19"
   },
   {
     "id": "demon-vnutri",
@@ -368,7 +394,8 @@
       "Ужасы"
     ],
     "rating": 8,
-    "posterLocal": "The-Autopsy-of-Jane-Doe.webp"
+    "posterLocal": "The-Autopsy-of-Jane-Doe.webp",
+    "addedAt": "2026-04-02"
   },
   {
     "id": "molchanie-yagnyat",
@@ -383,7 +410,8 @@
       "Ужасы"
     ],
     "rating": 9,
-    "posterLocal": "The-Silence-of-the-Lambs.webp"
+    "posterLocal": "The-Silence-of-the-Lambs.webp",
+    "addedAt": "2026-04-02"
   },
   {
     "id": "gotika",
@@ -397,7 +425,8 @@
       "Ужасы"
     ],
     "rating": 8,
-    "posterLocal": "Gothika.webp"
+    "posterLocal": "Gothika.webp",
+    "addedAt": "2026-04-02"
   },
   {
     "id": "28-let-spustya",
@@ -411,11 +440,12 @@
       "Ужасы"
     ],
     "rating": 2,
-    "posterLocal": "28-Years-Later.webp"
+    "posterLocal": "28-Years-Later.webp",
+    "addedAt": "2026-04-16"
   },
   {
     "id": "poezd-v-pusan",
-    "title": "Поезд в Пусан ",
+    "title": "Поезд в Пусан",
     "year": 2016,
     "type": "movie",
     "seasons": null,
@@ -425,11 +455,12 @@
       "Ужасы"
     ],
     "rating": 8,
-    "posterLocal": "Busanhaeng.webp"
+    "posterLocal": "Busanhaeng.webp",
+    "addedAt": "2026-04-16"
   },
   {
     "id": "eretik",
-    "title": "Еретик ",
+    "title": "Еретик",
     "year": 2024,
     "type": "movie",
     "seasons": null,
@@ -438,11 +469,12 @@
       "Ужасы"
     ],
     "rating": 7,
-    "posterLocal": "Heretic.webp"
+    "posterLocal": "Heretic.webp",
+    "addedAt": "2026-04-30"
   },
   {
     "id": "rassvet-mertvetsov",
-    "title": "Рассвет мертвецов ",
+    "title": "Рассвет мертвецов",
     "year": 2004,
     "type": "movie",
     "seasons": null,
@@ -453,7 +485,8 @@
       "Ужасы"
     ],
     "rating": 10,
-    "posterLocal": "Dawn-of-the-Dead.webp"
+    "posterLocal": "Dawn-of-the-Dead.webp",
+    "addedAt": "2026-04-16"
   },
   {
     "id": "den-kogda-zemlya-ostanovilas",
@@ -467,7 +500,8 @@
       "Драмы"
     ],
     "rating": 7,
-    "posterLocal": "The-Day-the-Earth-Stood-Still.webp"
+    "posterLocal": "The-Day-the-Earth-Stood-Still.webp",
+    "addedAt": "2026-05-07"
   },
   {
     "id": "nikto-tebya-ne-spaset",
@@ -481,7 +515,8 @@
       "Ужасы"
     ],
     "rating": 3,
-    "posterLocal": "No-One-Will-Save-You.webp"
+    "posterLocal": "No-One-Will-Save-You.webp",
+    "addedAt": "2026-05-07"
   },
   {
     "id": "voyna-mirov-z",
@@ -496,7 +531,8 @@
       "Ужасы"
     ],
     "rating": 10,
-    "posterLocal": "World-War-Z.webp"
+    "posterLocal": "World-War-Z.webp",
+    "addedAt": "2026-05-07"
   },
   {
     "id": "kod-3",
@@ -509,7 +545,8 @@
       "Боевики"
     ],
     "rating": 10,
-    "posterLocal": "Code-3.webp"
+    "posterLocal": "Code-3.webp",
+    "addedAt": "2026-05-14"
   },
   {
     "id": "skaylayn",
@@ -523,7 +560,8 @@
       "Триллеры"
     ],
     "rating": 8,
-    "posterLocal": "Skyline.webp"
+    "posterLocal": "Skyline.webp",
+    "addedAt": "2026-05-14"
   },
   {
     "id": "dzhumandzhi",
@@ -537,7 +575,8 @@
       "Фэнтези"
     ],
     "rating": 9,
-    "posterLocal": "Jumanji.webp"
+    "posterLocal": "Jumanji.webp",
+    "addedAt": "2026-09-11"
   },
   {
     "id": "stanovyas-volshebnitsey",
@@ -551,7 +590,8 @@
       "Фэнтези"
     ],
     "rating": 8,
-    "posterLocal": "Gushing-over-Magical-Girls.webp"
+    "posterLocal": "Gushing-over-Magical-Girls.webp",
+    "addedAt": "2026-02-19"
   },
   {
     "id": "mag-tselitel-novyy-start",
@@ -565,7 +605,8 @@
       "Фэнтези"
     ],
     "rating": 8,
-    "posterLocal": "Redo-of-Healer.webp"
+    "posterLocal": "Redo-of-Healer.webp",
+    "addedAt": "2026-03-12"
   },
   {
     "id": "mezhvidovye-retsenzenty",
@@ -579,7 +620,8 @@
       "Фэнтези"
     ],
     "rating": 9,
-    "posterLocal": "Interspecies-Reviewers.webp"
+    "posterLocal": "Interspecies-Reviewers.webp",
+    "addedAt": "2026-04-14"
   },
   {
     "id": "dandadan",
@@ -595,6 +637,7 @@
       "Сёнен"
     ],
     "rating": 0,
-    "posterLocal": "Dandadan.webp"
+    "posterLocal": "Dandadan.webp",
+    "addedAt": "2026-05-20"
   }
 ]

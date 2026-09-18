@@ -10,8 +10,11 @@
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn",
     "coverLocal": "Quarantine-Zone-The-Last-Check.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
+    "addedAt": "2026-01-31",
+    "startedAt": "2026-01-14",
+    "completedAt": "2026-01-21"
   },
   {
     "id": "how-to-fish",
@@ -24,8 +27,11 @@
     "status": "completed_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/4001890/How_to_Fish/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT",
     "coverLocal": "How-to-Fish.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT"
+    "addedAt": "2026-09-12",
+    "startedAt": "2026-09-12",
+    "completedAt": "2026-09-17"
   },
   {
     "id": "peak",
@@ -39,8 +45,11 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/3527290/PEAK/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "PEAK.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-07-15",
+    "startedAt": "2026-07-15",
+    "completedAt": "2026-07-15"
   },
   {
     "id": "gamble-with-your-friends",
@@ -53,8 +62,11 @@
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/3892270/Gamble_With_Your_Friends/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "Gamble-With-Your-Friends.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-07-14",
+    "startedAt": "2026-07-14",
+    "completedAt": "2026-07-14"
   },
   {
     "id": "voidtrain",
@@ -68,8 +80,11 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/1159690/Voidtrain/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "Voidtrain.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-07-13",
+    "startedAt": "2026-07-13",
+    "completedAt": "2026-07-13"
   },
   {
     "id": "drive-beyond-horizons",
@@ -83,8 +98,11 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/2625420/Drive_Beyond_Horizons/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "Drive-Beyond-Horizons.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-07-07",
+    "startedAt": "2026-07-07",
+    "completedAt": "2026-07-07"
   },
   {
     "id": "split-fiction",
@@ -98,7 +116,10 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/2001120/Split_Fiction/",
-    "coverLocal": "Split-Fiction.webp"
+    "coverLocal": "Split-Fiction.webp",
+    "addedAt": "2026-07-08",
+    "startedAt": "2026-07-08",
+    "completedAt": "2026-07-10"
   },
   {
     "id": "cult-of-the-lamb",
@@ -112,7 +133,10 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/",
-    "coverLocal": "Cult-of-the-Lamb.webp"
+    "coverLocal": "Cult-of-the-Lamb.webp",
+    "addedAt": "2026-05-26",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "meccha-chameleon",
@@ -125,8 +149,11 @@
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT",
     "coverLocal": "MECCHA-CHAMELEON.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT"
+    "addedAt": "2026-06-20",
+    "startedAt": "2026-06-20",
+    "completedAt": "2026-06-20"
   },
   {
     "id": "backseat-drivers",
@@ -139,8 +166,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/3558400/Backseat_Drivers/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT",
     "coverLocal": "Backseat-Drivers.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT"
+    "addedAt": "2026-06-11",
+    "startedAt": "2026-06-11",
+    "completedAt": "2026-06-14"
   },
   {
     "id": "zoochosis",
@@ -154,8 +184,11 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/2458560/Zoochosis/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLRe343Hi-WwY",
     "coverLocal": "Zoochosis.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLRe343Hi-WwY"
+    "addedAt": "2026-05-26",
+    "startedAt": "2026-08-31",
+    "completedAt": "2026-09-17"
   },
   {
     "id": "sulfur",
@@ -169,7 +202,10 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/2124120/SULFUR/",
-    "coverLocal": "SULFUR.webp"
+    "coverLocal": "SULFUR.webp",
+    "addedAt": "2026-05-26",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "kingdom-two-crowns",
@@ -183,8 +219,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9ObcCY_ufFWgDy33uPz6PEXL",
     "coverLocal": "Kingdom-Two-Crowns.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9ObcCY_ufFWgDy33uPz6PEXL"
+    "addedAt": "2026-05-26",
+    "startedAt": "2026-06-08",
+    "completedAt": "2026-06-16"
   },
   {
     "id": "keep-driving",
@@ -198,7 +237,10 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/2756920/Keep_Driving/",
-    "coverLocal": "Keep-Driving.webp"
+    "coverLocal": "Keep-Driving.webp",
+    "addedAt": "2026-05-26",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "gas-station-simulator",
@@ -212,7 +254,10 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/1149620/Gas_Station_Simulator/",
-    "coverLocal": "Gas-Station-Simulator.webp"
+    "coverLocal": "Gas-Station-Simulator.webp",
+    "addedAt": "2026-05-26",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "stardew-valley",
@@ -226,8 +271,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZSmEAFCHt6tYkKaM1jNohQ",
     "coverLocal": "Stardew-Valley.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZSmEAFCHt6tYkKaM1jNohQ"
+    "addedAt": "2026-01-31",
+    "startedAt": "2025-12-01",
+    "completedAt": "2026-03-19"
   },
   {
     "id": "rv-there-yet",
@@ -242,8 +290,11 @@
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/3949040/RV_There_Yet/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "RV-There-Yet.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-01-31",
+    "startedAt": "2026-01-01",
+    "completedAt": "2026-03-19"
   },
   {
     "id": "terraria",
@@ -256,7 +307,10 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/105600/Terraria/",
-    "coverLocal": "Terraria.webp"
+    "coverLocal": "Terraria.webp",
+    "addedAt": "2026-01-31",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "noita",
@@ -270,8 +324,11 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/881100/Noita/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY76OntimvSzqlKrvVYRTzP",
     "coverLocal": "Noita.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY76OntimvSzqlKrvVYRTzP"
+    "addedAt": "2026-01-31",
+    "startedAt": "2025-12-08",
+    "completedAt": "2025-12-09"
   },
   {
     "id": "the-long-dark",
@@ -285,8 +342,11 @@
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/305620/The_Long_Dark/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYmBJtm4fVZo49Zk-ya5RZU",
     "coverLocal": "The-Long-Dark.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYmBJtm4fVZo49Zk-ya5RZU"
+    "addedAt": "2026-01-31",
+    "startedAt": "2025-12-24",
+    "completedAt": "2025-12-25"
   },
   {
     "id": "helltaker",
@@ -299,8 +359,11 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/1289310/Helltaker/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu",
     "coverLocal": "Helltaker.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
+    "addedAt": "2026-01-31",
+    "startedAt": "2025-12-31",
+    "completedAt": "2025-12-31"
   },
   {
     "id": "bendy-and-the-ink-machine",
@@ -313,8 +376,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZDGuOHpS7ww4Ae89yNVGdc",
     "coverLocal": "Bendy-And-the-ink-machine.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZDGuOHpS7ww4Ae89yNVGdc"
+    "addedAt": "2026-01-31",
+    "startedAt": "2026-01-05",
+    "completedAt": "2026-01-06"
   },
   {
     "id": "we-were-here-together",
@@ -328,8 +394,11 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/865360/We_Were_Here_Together/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "We-Were-Here-Together.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-01-31",
+    "startedAt": "2026-01-07",
+    "completedAt": "2026-01-07"
   },
   {
     "id": "voices-of-the-void",
@@ -342,8 +411,11 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://mrdrnose.itch.io/votv/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaA373gatvAcdH1-gcQIiy4",
     "coverLocal": "Voices-of-the-Void.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaA373gatvAcdH1-gcQIiy4"
+    "addedAt": "2026-01-31",
+    "startedAt": "2026-04-27",
+    "completedAt": "2026-05-20"
   },
   {
     "id": "raft",
@@ -357,8 +429,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/648800/Raft/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oaersr6FG5RV7l861kjBSss",
     "coverLocal": "Raft.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oaersr6FG5RV7l861kjBSss"
+    "addedAt": "2026-01-31",
+    "startedAt": "2025-12-10",
+    "completedAt": "2026-01-13"
   },
   {
     "id": "kiosk",
@@ -372,7 +447,10 @@
     "status": "completed_stream",
     "rating": 4,
     "link": "https://store.steampowered.com/app/3126330/Kiosk/",
-    "coverLocal": "Kiosk.webp"
+    "coverLocal": "Kiosk.webp",
+    "addedAt": "2026-01-31",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "the-boba-teashop",
@@ -386,7 +464,10 @@
     "status": "completed_stream",
     "rating": 5,
     "link": "https://store.steampowered.com/app/3461920/The_Boba_Teashop/",
-    "coverLocal": "The-Boba-Teashop.webp"
+    "coverLocal": "The-Boba-Teashop.webp",
+    "addedAt": "2026-01-31",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "subnautica",
@@ -400,8 +481,11 @@
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/264710/Subnautica/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9ObCoFqAF6AlbMtKKN33uT2h",
     "coverLocal": "Subnautica.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9ObCoFqAF6AlbMtKKN33uT2h"
+    "addedAt": "2026-01-31",
+    "startedAt": "2026-01-26",
+    "completedAt": "2026-02-13"
   },
   {
     "id": "perfume-atelier",
@@ -414,8 +498,11 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/3962270/Perfume_Atelier/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu",
     "coverLocal": "Perfume-Atelier.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
+    "addedAt": "2026-02-16",
+    "startedAt": "2026-02-16",
+    "completedAt": "2026-02-16"
   },
   {
     "id": "cats-and-cups",
@@ -428,8 +515,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/3521410/Cats__Cups/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu",
     "coverLocal": "Cats-and-Cups.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
+    "addedAt": "2026-02-17",
+    "startedAt": "2026-02-17",
+    "completedAt": "2026-02-17"
   },
   {
     "id": "souper-game",
@@ -442,7 +532,10 @@
     "status": "completed_stream",
     "rating": 6,
     "link": "https://store.steampowered.com/app/3181790/Souper_Game/",
-    "coverLocal": "Souper-Game.webp"
+    "coverLocal": "Souper-Game.webp",
+    "addedAt": "2026-02-21",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "kletka",
@@ -456,8 +549,11 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/1699480/KLET/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "KLETKA.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-02-24",
+    "startedAt": "2026-02-23",
+    "completedAt": "2026-02-23"
   },
   {
     "id": "we-escaped-a-twisted-game",
@@ -470,8 +566,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/2524930/We_Escaped_a_Twisted_Game/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "We-Escaped-a-Twisted-Game.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-02-24",
+    "startedAt": "2026-02-23",
+    "completedAt": "2026-02-23"
   },
   {
     "id": "buckshot-roulette",
@@ -484,8 +583,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/2835570/Buckshot_Roulette/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "Buckshot-Roulette.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-02-24",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "side-effects",
@@ -498,8 +600,11 @@
     "status": "completed_stream",
     "rating": 8,
     "link": "https://store.steampowered.com/app/3799100/SIDE_EFFECTS/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "SIDE-EFFECTS.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-02-24",
+    "startedAt": "2026-01-02",
+    "completedAt": "2026-01-02"
   },
   {
     "id": "we-were-here-expeditions-the-friendship",
@@ -513,8 +618,11 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/2296990/We_Were_Here_Expeditions_The_FriendShip/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "We-Were-Here-Expeditions-The-FriendShip.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-02-24",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "abiotic-factor",
@@ -529,8 +637,11 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/427410/Abiotic_Factor/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZQa3Um9m2sBEfuIfHEfVIr",
     "coverLocal": "Abiotic-Factor.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZQa3Um9m2sBEfuIfHEfVIr"
+    "addedAt": "2026-02-26",
+    "startedAt": "2026-02-25",
+    "completedAt": "2026-03-02"
   },
   {
     "id": "we-were-here-forever",
@@ -544,8 +655,11 @@
     "status": "completed_stream",
     "rating": 6,
     "link": "https://store.steampowered.com/app/1341290/We_Were_Here_Forever/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf",
     "coverLocal": "We-Were-Here-Forever.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
+    "addedAt": "2026-03-03",
+    "startedAt": "2026-03-03",
+    "completedAt": "2026-03-03"
   },
   {
     "id": "warhammer-40000-space-marine-2",
@@ -560,8 +674,11 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaYxlDnoHJDv5qviD3tfqg2",
     "coverLocal": "Warhammer-40000-Space-Marine-2.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaYxlDnoHJDv5qviD3tfqg2"
+    "addedAt": "2026-03-05",
+    "startedAt": "2026-03-04",
+    "completedAt": "2026-03-08"
   },
   {
     "id": "mewgenics",
@@ -575,8 +692,11 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/686060/Mewgenics/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY-gqKsuNKG2dva6kAm3TPr",
     "coverLocal": "Mewgenics.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY-gqKsuNKG2dva6kAm3TPr"
+    "addedAt": "2026-03-10",
+    "startedAt": "2026-03-10",
+    "completedAt": "2026-06-14"
   },
   {
     "id": "the-mortuary-assistant",
@@ -590,8 +710,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZUh2x8FHSL4VilKLV_SVhJ",
     "coverLocal": "The-Mortuary-Assistant.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZUh2x8FHSL4VilKLV_SVhJ"
+    "addedAt": "2026-03-10",
+    "startedAt": "2026-03-24",
+    "completedAt": "2026-03-25"
   },
   {
     "id": "dont-scream",
@@ -604,8 +727,11 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/2497900/DONT_SCREAM/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZmrRRjrTRRxZgByqAA_G_I",
     "coverLocal": "Dont-Scream.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZmrRRjrTRRxZgByqAA_G_I"
+    "addedAt": "2026-03-19",
+    "startedAt": "2026-03-23",
+    "completedAt": "2026-03-23"
   },
   {
     "id": "rimworld",
@@ -618,8 +744,11 @@
     "status": "completed_stream",
     "rating": 10,
     "link": "https://store.steampowered.com/app/294100/RimWorld/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYO9bx9rNeqNAX-_pCEbXp7",
     "coverLocal": "RimWorld.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYO9bx9rNeqNAX-_pCEbXp7"
+    "addedAt": "2026-03-10",
+    "startedAt": "2026-03-30",
+    "completedAt": "2026-04-22"
   },
   {
     "id": "restory-chill-electronics-repairs",
@@ -632,8 +761,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/3812600/ReStory_Chill_Electronics_Repairs/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu",
     "coverLocal": "ReStory-Chill-Electronics-Repairs.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
+    "addedAt": "2026-04-22",
+    "startedAt": "2026-04-22",
+    "completedAt": "2026-04-22"
   },
   {
     "id": "the-coffin-of-andy-and-leyley",
@@ -646,7 +778,10 @@
     "status": "in_progress_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/2378900/The_Coffin_of_Andy_and_Leyley/",
-    "coverLocal": "The-Coffin-of-Andy-and-Leyley.webp"
+    "coverLocal": "The-Coffin-of-Andy-and-Leyley.webp",
+    "addedAt": "2026-04-30",
+    "startedAt": "2026-05-20",
+    "completedAt": null
   },
   {
     "id": "hellblade-senuas-sacrifice",
@@ -659,8 +794,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgDtzU5JQ1lZHK5M147b5Y",
     "coverLocal": "Hellblade-Senuas-Sacrifice.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgDtzU5JQ1lZHK5M147b5Y"
+    "addedAt": "2026-05-19",
+    "startedAt": "2026-05-19",
+    "completedAt": "2026-05-26"
   },
   {
     "id": "frostpunk",
@@ -672,8 +810,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/323190/Frostpunk/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY6UXyjf6zOafVfNS99BWtG",
     "coverLocal": "Frostpunk.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY6UXyjf6zOafVfNS99BWtG"
+    "addedAt": "2026-05-26",
+    "startedAt": "2026-05-26",
+    "completedAt": "2026-06-14"
   },
   {
     "id": "papers-please",
@@ -687,8 +828,11 @@
     "status": "in_progress_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/239030/Papers_Please/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLCv9i8xrw1iY",
     "coverLocal": "Papers-Please.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLCv9i8xrw1iY"
+    "addedAt": "2026-05-26",
+    "startedAt": "2026-09-04",
+    "completedAt": null
   },
   {
     "id": "doom",
@@ -701,7 +845,10 @@
     "status": "live_on_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/379720/DOOM/",
-    "coverLocal": "DOOM.webp"
+    "coverLocal": "DOOM.webp",
+    "addedAt": "2026-05-26",
+    "startedAt": "2026-09-15",
+    "completedAt": null
   },
   {
     "id": "doom-eternal",
@@ -714,7 +861,10 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/782330/DOOM_Eternal/",
-    "coverLocal": "Doom-Eternal.webp"
+    "coverLocal": "Doom-Eternal.webp",
+    "addedAt": "2026-05-26",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "doom-the-dark-ages",
@@ -727,7 +877,10 @@
     "status": "planning_stream",
     "rating": 0,
     "link": "https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/",
-    "coverLocal": "Doom-The-Dark-Ages.webp"
+    "coverLocal": "Doom-The-Dark-Ages.webp",
+    "addedAt": "2026-05-26",
+    "startedAt": null,
+    "completedAt": null
   },
   {
     "id": "pacific-drive",
@@ -740,8 +893,11 @@
     "status": "completed_stream",
     "rating": 9,
     "link": "https://store.steampowered.com/app/1458140/Pacific_Drive/",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLb48svMQ2VDA",
     "coverLocal": "Pacific-Drive.webp",
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLb48svMQ2VDA"
+    "addedAt": "2026-05-26",
+    "startedAt": "2026-06-16",
+    "completedAt": "2026-07-07"
   },
   {
     "id": "7-days-to-die",
@@ -756,6 +912,9 @@
     "status": "completed_stream",
     "rating": 7,
     "link": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
-    "coverLocal": "7-Days-to-Die.webp"
+    "coverLocal": "7-Days-to-Die.webp",
+    "addedAt": "2026-01-31",
+    "startedAt": null,
+    "completedAt": null
   }
 ]
