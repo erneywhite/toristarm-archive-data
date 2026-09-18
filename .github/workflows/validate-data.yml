@@ -1,18 +1,20 @@
 name: Validate data
 
-# Запускается только при изменении данных игр/фильмов или самого валидатора —
+# Запускается только при изменении данных игр/фильмов, словаря жанров или самого валидатора —
 # регулярные коммиты бота в stream_status.json НЕ триггерят проверку.
 on:
   push:
     paths:
       - 'data/games.json'
       - 'data/movies.json'
+      - 'data/genres.json'
       - 'tools/validate-data.mjs'
       - '.github/workflows/validate-data.yml'
   pull_request:
     paths:
       - 'data/games.json'
       - 'data/movies.json'
+      - 'data/genres.json'
   workflow_dispatch:
 
 jobs:

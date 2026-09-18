@@ -27,6 +27,7 @@ toristarm-archive-data/
 ├── data/
 │   ├── games.json          # Список игр со стримов
 │   ├── movies.json         # Список фильмов и сериалов
+│   ├── genres.json         # Словарь жанров: отдельно для игр и для фильмов
 │   └── stream_status.json  # Текущий статус стримов (Twitch / Boosty)
 ├── tools/
 │   └── validate-data.mjs   # Валидатор данных (Node, без зависимостей)
@@ -109,7 +110,7 @@ toristarm-archive-data/
 
 ## Валидация
 
-Каждый push, меняющий `data/games.json` или `data/movies.json`, запускает GitHub
+Каждый push, меняющий `data/games.json`, `data/movies.json` или `data/genres.json`, запускает GitHub
 Action ([`validate-data.yml`](.github/workflows/validate-data.yml)) — он прогоняет
 [`tools/validate-data.mjs`](tools/validate-data.mjs).
 
@@ -126,11 +127,9 @@ node tools/validate-data.mjs
 ### Словарь жанров
 
 Игры и фильмы используют **разные** наборы (фильтр на сайте строится отдельно по табам).
+Оба лежат в [`data/genres.json`](data/genres.json): `games` — для игр, `movies` — для фильмов.
 
-- **Игры:** Головоломки, Инди, Казуальные, Кооп, Песочницы, Приключения/Квесты, Симуляторы, Стратегии, Файтинги, Хорроры, Шутеры, Экшн, NSFW, Roguelike.
-- **Фильмы:** Аниме, Боевики, Детективы, Драмы, Комедии, Криминал, Мультфильмы, Приключения, Сёнен, Триллеры, Ужасы, Фантастика, Фэнтези.
-
-Новый жанр → добавить строку в нужный набор в `tools/validate-data.mjs`.
+Новый жанр → добавить строку в нужный список в `data/genres.json`.
 
 ---
 
