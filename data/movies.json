@@ -1,5 +1,6 @@
 [
   {
+    "id": "maska",
     "title": "Маска",
     "year": 1994,
     "type": "movie",
@@ -13,6 +14,7 @@
     "posterLocal": "Mask.webp"
   },
   {
+    "id": "tupoy-i-esche-tupee",
     "title": "Тупой и еще тупее",
     "year": 1994,
     "type": "movie",
@@ -24,6 +26,7 @@
     "posterLocal": "Dumb-Dumber.webp"
   },
   {
+    "id": "terminator-2-sudnyy-den",
     "title": "Терминатор 2: Судный день",
     "year": 1991,
     "type": "movie",
@@ -36,6 +39,7 @@
     "posterLocal": "Terminator-2-Judgment-Day.webp"
   },
   {
+    "id": "terminator",
     "title": "Терминатор",
     "year": 1984,
     "type": "movie",
@@ -48,6 +52,7 @@
     "posterLocal": "The-Terminator.webp"
   },
   {
+    "id": "shou-trumana",
     "title": "Шоу Трумана",
     "year": 1998,
     "type": "movie",
@@ -60,6 +65,7 @@
     "posterLocal": "The-Truman-Show.webp"
   },
   {
+    "id": "nazad-v-buduschee",
     "title": "Назад в будущее",
     "year": 1985,
     "type": "movie",
@@ -73,6 +79,7 @@
     "posterLocal": "Back-to-the-Future.webp"
   },
   {
+    "id": "nazad-v-buduschee-2",
     "title": "Назад в будущее 2",
     "year": 1989,
     "type": "movie",
@@ -86,6 +93,7 @@
     "posterLocal": "Back-to-the-Future-Part-2.webp"
   },
   {
+    "id": "nazad-v-buduschee-3",
     "title": "Назад в будущее 3",
     "year": 1990,
     "type": "movie",
@@ -99,6 +107,7 @@
     "posterLocal": "Back-to-the-Future-Part-3.webp"
   },
   {
+    "id": "split",
     "title": "Сплит",
     "year": 2016,
     "type": "movie",
@@ -111,6 +120,7 @@
     "posterLocal": "Split.webp"
   },
   {
+    "id": "steklo",
     "title": "Стекло",
     "year": 2019,
     "type": "movie",
@@ -126,6 +136,7 @@
     "posterLocal": "Glass.webp"
   },
   {
+    "id": "neuyazvimyy",
     "title": "Неуязвимый",
     "year": 2000,
     "type": "movie",
@@ -140,6 +151,7 @@
     "posterLocal": "Unbreakable.webp"
   },
   {
+    "id": "bratya-iz-grimsbi",
     "title": "Братья из Гримсби",
     "year": 2016,
     "type": "movie",
@@ -153,6 +165,7 @@
     "posterLocal": "Grimsby.webp"
   },
   {
+    "id": "golyy-pistolet",
     "title": "Голый пистолет",
     "year": 1988,
     "type": "movie",
@@ -165,6 +178,7 @@
     "posterLocal": "The-Naked-Gun.webp"
   },
   {
+    "id": "zelenaya-milya",
     "title": "Зеленая миля",
     "year": 1999,
     "type": "movie",
@@ -178,6 +192,7 @@
     "posterLocal": "The-Green-Mile.webp"
   },
   {
+    "id": "interstellar",
     "title": "Интерстеллар",
     "year": 2014,
     "type": "movie",
@@ -191,6 +206,7 @@
     "posterLocal": "Interstellar.webp"
   },
   {
+    "id": "mayor-peyn",
     "title": "Майор Пэйн",
     "year": 1995,
     "type": "movie",
@@ -202,6 +218,7 @@
     "posterLocal": "Major-Payne.webp"
   },
   {
+    "id": "boytsovskiy-klub",
     "title": "Бойцовский клуб",
     "year": 1999,
     "type": "movie",
@@ -214,6 +231,7 @@
     "posterLocal": "Fight-Club.webp"
   },
   {
+    "id": "rekviem-po-mechte",
     "title": "Реквием по мечте",
     "year": 2000,
     "type": "movie",
@@ -225,6 +243,7 @@
     "posterLocal": "Requiem-for-a-Dream.webp"
   },
   {
+    "id": "vlastelin-kolets-bratstvo-koltsa",
     "title": "Властелин колец: Братство кольца",
     "year": 2001,
     "type": "movie",
@@ -238,6 +257,7 @@
     "posterLocal": "The-Lord-of-the-Rings-The-Fellowship-of-the-Ring.webp"
   },
   {
+    "id": "vlastelin-kolets-dve-kreposti",
     "title": "Властелин колец: Две крепости",
     "year": 2002,
     "type": "movie",
@@ -251,6 +271,7 @@
     "posterLocal": "The-Lord-of-the-Rings-The-Two-Towers.webp"
   },
   {
+    "id": "vlastelin-kolets-vozvraschenie-korolya",
     "title": "Властелин колец: Возвращение Короля",
     "year": 2003,
     "type": "movie",
@@ -264,6 +285,7 @@
     "posterLocal": "The-Lord-of-the-Rings-The-Return-of-the-King.webp"
   },
   {
+    "id": "krysinye-bega",
     "title": "Крысиные бега",
     "year": 2001,
     "type": "movie",
@@ -276,6 +298,7 @@
     "posterLocal": "Rat-Race.webp"
   },
   {
+    "id": "ratatuy",
     "title": "Рататуй",
     "year": 2007,
     "type": "movie",
@@ -291,6 +314,7 @@
     "posterLocal": "Ratatouille.webp"
   },
   {
+    "id": "monstr-v-parizhe",
     "title": "Монстр в Париже",
     "year": 2011,
     "type": "movie",
@@ -306,6 +330,7 @@
     "posterLocal": "A-Monster-in-Paris.webp"
   },
   {
+    "id": "udachi-veselya-ne-sdohni",
     "title": "Удачи, веселья, не сдохни",
     "year": 2026,
     "type": "movie",
@@ -320,6 +345,7 @@
     "posterLocal": "Good-Luck-Have-Fun-Dont-Die.webp"
   },
   {
+    "id": "uboynye-kanikuly",
     "title": "Убойные каникулы",
     "year": 2010,
     "type": "movie",
@@ -332,6 +358,7 @@
     "posterLocal": "Tucker-and-Dale-vs-Evil.webp"
   },
   {
+    "id": "demon-vnutri",
     "title": "Демон внутри",
     "year": 2016,
     "type": "movie",
@@ -344,6 +371,7 @@
     "posterLocal": "The-Autopsy-of-Jane-Doe.webp"
   },
   {
+    "id": "molchanie-yagnyat",
     "title": "Молчание ягнят",
     "year": 1991,
     "type": "movie",
@@ -358,6 +386,7 @@
     "posterLocal": "The-Silence-of-the-Lambs.webp"
   },
   {
+    "id": "gotika",
     "title": "Готика",
     "year": 2003,
     "type": "movie",
@@ -371,6 +400,7 @@
     "posterLocal": "Gothika.webp"
   },
   {
+    "id": "28-let-spustya",
     "title": "28 лет спустя",
     "year": 2025,
     "type": "movie",
@@ -384,6 +414,7 @@
     "posterLocal": "28-Years-Later.webp"
   },
   {
+    "id": "poezd-v-pusan",
     "title": "Поезд в Пусан ",
     "year": 2016,
     "type": "movie",
@@ -397,6 +428,7 @@
     "posterLocal": "Busanhaeng.webp"
   },
   {
+    "id": "eretik",
     "title": "Еретик ",
     "year": 2024,
     "type": "movie",
@@ -409,6 +441,7 @@
     "posterLocal": "Heretic.webp"
   },
   {
+    "id": "rassvet-mertvetsov",
     "title": "Рассвет мертвецов ",
     "year": 2004,
     "type": "movie",
@@ -423,6 +456,7 @@
     "posterLocal": "Dawn-of-the-Dead.webp"
   },
   {
+    "id": "den-kogda-zemlya-ostanovilas",
     "title": "День, когда Земля остановилась",
     "year": 2008,
     "type": "movie",
@@ -436,6 +470,7 @@
     "posterLocal": "The-Day-the-Earth-Stood-Still.webp"
   },
   {
+    "id": "nikto-tebya-ne-spaset",
     "title": "Никто тебя не спасёт",
     "year": 2023,
     "type": "movie",
@@ -449,6 +484,7 @@
     "posterLocal": "No-One-Will-Save-You.webp"
   },
   {
+    "id": "voyna-mirov-z",
     "title": "Война миров Z",
     "year": 2013,
     "type": "movie",
@@ -463,6 +499,7 @@
     "posterLocal": "World-War-Z.webp"
   },
   {
+    "id": "kod-3",
     "title": "Код 3",
     "year": 2025,
     "type": "movie",
@@ -475,6 +512,7 @@
     "posterLocal": "Code-3.webp"
   },
   {
+    "id": "skaylayn",
     "title": "Скайлайн",
     "year": 2010,
     "type": "movie",
@@ -488,6 +526,7 @@
     "posterLocal": "Skyline.webp"
   },
   {
+    "id": "dzhumandzhi",
     "title": "Джуманджи",
     "year": 1995,
     "type": "movie",
@@ -501,6 +540,7 @@
     "posterLocal": "Jumanji.webp"
   },
   {
+    "id": "stanovyas-volshebnitsey",
     "title": "Становясь волшебницей",
     "year": 2024,
     "type": "series",
@@ -514,6 +554,7 @@
     "posterLocal": "Gushing-over-Magical-Girls.webp"
   },
   {
+    "id": "mag-tselitel-novyy-start",
     "title": "Маг-целитель: Новый старт",
     "year": 2021,
     "type": "series",
@@ -527,6 +568,7 @@
     "posterLocal": "Redo-of-Healer.webp"
   },
   {
+    "id": "mezhvidovye-retsenzenty",
     "title": "Межвидовые рецензенты",
     "year": 2020,
     "type": "series",
@@ -540,6 +582,7 @@
     "posterLocal": "Interspecies-Reviewers.webp"
   },
   {
+    "id": "dandadan",
     "title": "Дандадан",
     "year": 2024,
     "type": "series",

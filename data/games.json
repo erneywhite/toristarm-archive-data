@@ -1,5 +1,6 @@
 [
   {
+    "id": "quarantine-zone-the-last-check",
     "title": "Quarantine Zone: The Last Check",
     "platform": "PC",
     "genres": [
@@ -13,6 +14,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZBcBJQbbuWgkrZcnZsQHAn"
   },
   {
+    "id": "how-to-fish",
     "title": "How to Fish",
     "platform": "PC",
     "genres": [
@@ -26,6 +28,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT"
   },
   {
+    "id": "peak",
     "title": "PEAK",
     "platform": "PC",
     "genres": [
@@ -40,6 +43,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "gamble-with-your-friends",
     "title": "Gamble With Your Friends",
     "platform": "PC",
     "genres": [
@@ -53,6 +57,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "voidtrain",
     "title": "Voidtrain",
     "platform": "PC",
     "genres": [
@@ -67,6 +72,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "drive-beyond-horizons",
     "title": "Drive Beyond Horizons",
     "platform": "PC",
     "genres": [
@@ -81,6 +87,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "split-fiction",
     "title": "Split Fiction",
     "platform": "PC",
     "genres": [
@@ -94,6 +101,7 @@
     "coverLocal": "Split-Fiction.webp"
   },
   {
+    "id": "cult-of-the-lamb",
     "title": "Cult of the Lamb",
     "platform": "PC",
     "genres": [
@@ -107,6 +115,7 @@
     "coverLocal": "Cult-of-the-Lamb.webp"
   },
   {
+    "id": "meccha-chameleon",
     "title": "MECCHA CHAMELEON",
     "platform": "PC",
     "genres": [
@@ -120,6 +129,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT"
   },
   {
+    "id": "backseat-drivers",
     "title": "Backseat Drivers",
     "platform": "PC",
     "genres": [
@@ -133,6 +143,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oa7t_kU18of6JpBw8PqfMXT"
   },
   {
+    "id": "zoochosis",
     "title": "Zoochosis",
     "platform": "PC",
     "genres": [
@@ -147,6 +158,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLRe343Hi-WwY"
   },
   {
+    "id": "sulfur",
     "title": "SULFUR",
     "platform": "PC",
     "genres": [
@@ -160,6 +172,7 @@
     "coverLocal": "SULFUR.webp"
   },
   {
+    "id": "kingdom-two-crowns",
     "title": "Kingdom Two Crowns",
     "platform": "PC",
     "genres": [
@@ -174,6 +187,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9ObcCY_ufFWgDy33uPz6PEXL"
   },
   {
+    "id": "keep-driving",
     "title": "Keep Driving",
     "platform": "PC",
     "genres": [
@@ -187,6 +201,7 @@
     "coverLocal": "Keep-Driving.webp"
   },
   {
+    "id": "gas-station-simulator",
     "title": "Gas Station Simulator",
     "platform": "PC",
     "genres": [
@@ -200,6 +215,7 @@
     "coverLocal": "Gas-Station-Simulator.webp"
   },
   {
+    "id": "stardew-valley",
     "title": "Stardew Valley",
     "platform": "PC",
     "genres": [
@@ -214,6 +230,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZSmEAFCHt6tYkKaM1jNohQ"
   },
   {
+    "id": "rv-there-yet",
     "title": "RV There Yet?",
     "platform": "PC",
     "genres": [
@@ -229,6 +246,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "terraria",
     "title": "Terraria",
     "platform": "PC",
     "genres": [
@@ -241,6 +259,7 @@
     "coverLocal": "Terraria.webp"
   },
   {
+    "id": "noita",
     "title": "Noita",
     "platform": "PC",
     "genres": [
@@ -255,6 +274,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY76OntimvSzqlKrvVYRTzP"
   },
   {
+    "id": "the-long-dark",
     "title": "The Long Dark",
     "platform": "PC",
     "genres": [
@@ -269,6 +289,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYmBJtm4fVZo49Zk-ya5RZU"
   },
   {
+    "id": "helltaker",
     "title": "Helltaker",
     "platform": "PC",
     "genres": [
@@ -282,6 +303,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
+    "id": "bendy-and-the-ink-machine",
     "title": "Bendy And the ink machine",
     "platform": "PC",
     "genres": [
@@ -295,6 +317,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZDGuOHpS7ww4Ae89yNVGdc"
   },
   {
+    "id": "we-were-here-together",
     "title": "We Were Here Together",
     "platform": "PC",
     "genres": [
@@ -309,6 +332,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "voices-of-the-void",
     "title": "Voices of the Void",
     "platform": "PC",
     "genres": [
@@ -322,6 +346,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaA373gatvAcdH1-gcQIiy4"
   },
   {
+    "id": "raft",
     "title": "Raft",
     "platform": "PC",
     "genres": [
@@ -336,6 +361,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9Oaersr6FG5RV7l861kjBSss"
   },
   {
+    "id": "kiosk",
     "title": "Kiosk",
     "platform": "PC",
     "genres": [
@@ -349,6 +375,7 @@
     "coverLocal": "Kiosk.webp"
   },
   {
+    "id": "the-boba-teashop",
     "title": "The Boba Teashop",
     "platform": "PC",
     "genres": [
@@ -362,6 +389,7 @@
     "coverLocal": "The-Boba-Teashop.webp"
   },
   {
+    "id": "subnautica",
     "title": "Subnautica",
     "platform": "PC",
     "genres": [
@@ -376,6 +404,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9ObCoFqAF6AlbMtKKN33uT2h"
   },
   {
+    "id": "perfume-atelier",
     "title": "Perfume Atelier",
     "platform": "PC",
     "genres": [
@@ -389,6 +418,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
+    "id": "cats-and-cups",
     "title": "Cats & Cups",
     "platform": "PC",
     "genres": [
@@ -402,6 +432,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
+    "id": "souper-game",
     "title": "Souper Game",
     "platform": "PC",
     "genres": [
@@ -414,6 +445,7 @@
     "coverLocal": "Souper-Game.webp"
   },
   {
+    "id": "kletka",
     "title": "KLETKA",
     "platform": "PC",
     "genres": [
@@ -428,6 +460,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "we-escaped-a-twisted-game",
     "title": "We Escaped a Twisted Game",
     "platform": "PC",
     "genres": [
@@ -441,6 +474,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "buckshot-roulette",
     "title": "Buckshot Roulette",
     "platform": "PC",
     "genres": [
@@ -454,6 +488,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "side-effects",
     "title": "SIDE EFFECTS",
     "platform": "PC",
     "genres": [
@@ -467,6 +502,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "we-were-here-expeditions-the-friendship",
     "title": "We Were Here Expeditions: The FriendShip",
     "platform": "PC",
     "genres": [
@@ -481,6 +517,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "abiotic-factor",
     "title": "Abiotic Factor",
     "platform": "PC",
     "genres": [
@@ -496,6 +533,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZQa3Um9m2sBEfuIfHEfVIr"
   },
   {
+    "id": "we-were-here-forever",
     "title": "We Were Here Forever",
     "platform": "PC",
     "genres": [
@@ -510,6 +548,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYFCjvyUnQ-Gy0LuxmWaTWf"
   },
   {
+    "id": "warhammer-40000-space-marine-2",
     "title": "Warhammer 40,000: Space Marine 2",
     "platform": "PC",
     "genres": [
@@ -525,6 +564,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OaYxlDnoHJDv5qviD3tfqg2"
   },
   {
+    "id": "mewgenics",
     "title": "Mewgenics",
     "platform": "PC",
     "genres": [
@@ -539,6 +579,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY-gqKsuNKG2dva6kAm3TPr"
   },
   {
+    "id": "the-mortuary-assistant",
     "title": "The Mortuary Assistant",
     "platform": "PC",
     "genres": [
@@ -553,6 +594,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZUh2x8FHSL4VilKLV_SVhJ"
   },
   {
+    "id": "dont-scream",
     "title": "Don’t Scream",
     "platform": "PC",
     "genres": [
@@ -566,6 +608,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OZmrRRjrTRRxZgByqAA_G_I"
   },
   {
+    "id": "rimworld",
     "title": "RimWorld",
     "platform": "PC",
     "genres": [
@@ -579,6 +622,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYO9bx9rNeqNAX-_pCEbXp7"
   },
   {
+    "id": "restory-chill-electronics-repairs",
     "title": "ReStory: Chill Electronics Repairs",
     "platform": "PC",
     "genres": [
@@ -592,6 +636,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgWHDRHkAQLmg6kfMthVOu"
   },
   {
+    "id": "the-coffin-of-andy-and-leyley",
     "title": "The Coffin of Andy and Leyley",
     "platform": "PC",
     "genres": [
@@ -604,6 +649,7 @@
     "coverLocal": "The-Coffin-of-Andy-and-Leyley.webp"
   },
   {
+    "id": "hellblade-senuas-sacrifice",
     "title": "Hellblade: Senua’s Sacrifice",
     "platform": "PC",
     "genres": [
@@ -617,6 +663,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OYgDtzU5JQ1lZHK5M147b5Y"
   },
   {
+    "id": "frostpunk",
     "title": "Frostpunk",
     "platform": "PC",
     "genres": [
@@ -629,6 +676,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLqoY6Mxmg9OY6UXyjf6zOafVfNS99BWtG"
   },
   {
+    "id": "papers-please",
     "title": "Papers, Please",
     "platform": "PC",
     "genres": [
@@ -643,6 +691,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLCv9i8xrw1iY"
   },
   {
+    "id": "doom",
     "title": "DOOM",
     "platform": "PC",
     "genres": [
@@ -655,6 +704,7 @@
     "coverLocal": "DOOM.webp"
   },
   {
+    "id": "doom-eternal",
     "title": "Doom Eternal",
     "platform": "PC",
     "genres": [
@@ -667,6 +717,7 @@
     "coverLocal": "Doom-Eternal.webp"
   },
   {
+    "id": "doom-the-dark-ages",
     "title": "Doom: The Dark Ages",
     "platform": "PC",
     "genres": [
@@ -679,6 +730,7 @@
     "coverLocal": "Doom-The-Dark-Ages.webp"
   },
   {
+    "id": "pacific-drive",
     "title": "Pacific Drive",
     "platform": "PC",
     "genres": [
@@ -692,6 +744,7 @@
     "playlistUrl": "https://www.youtube.com/playlist?list=PLb48svMQ2VDA"
   },
   {
+    "id": "7-days-to-die",
     "title": "7 Days to Die",
     "platform": "PC",
     "genres": [
