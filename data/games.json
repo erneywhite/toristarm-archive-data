@@ -17,6 +17,22 @@
     "completedAt": "2026-01-21"
   },
   {
+    "id": "bills-must-be-paid",
+    "title": "Bills Must Be Paid",
+    "platform": "PC",
+    "genres": [
+      "Roguelike",
+      "Инкрементальные"
+    ],
+    "status": "planning_stream",
+    "rating": 0,
+    "link": "https://store.steampowered.com/app/4421010/Bills_Must_Be_Paid/",
+    "coverLocal": "Bills-Must-Be-Paid.webp",
+    "addedAt": "2026-09-19",
+    "startedAt": null,
+    "completedAt": null
+  },
+  {
     "id": "how-to-fish",
     "title": "How to Fish",
     "platform": "PC",
